@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { demoUrl, githubUrl, pdfUrl, videoUrl } from "../../lib/constants";
+import { demoUrl, githubUrl, pdfUrl } from "../../lib/constants";
 import {
   ArrowRight,
   Sparkles,
@@ -91,15 +91,6 @@ export function HeroSection() {
                 <span>GitHub Repository</span>
               </a>
 
-              <a
-                href={videoUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-6 py-3.5 rounded-full bg-muted/80 hover:bg-muted border border-border/80 text-foreground font-bold text-sm hover:scale-[1.02] active:scale-[0.98] transition-all duration-200 w-full sm:w-auto justify-center"
-              >
-                <Play className="w-4 h-4 text-accent fill-accent" />
-                <span>Demo Video</span>
-              </a>
             </div>
 
             <div className="flex justify-center lg:justify-start pt-2">

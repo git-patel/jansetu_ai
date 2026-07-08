@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { demoUrl, githubUrl, pdfUrl, videoUrl } from "../../lib/constants";
+import { demoUrl, githubUrl, pdfUrl } from "../../lib/constants";
 import { Sparkles, Globe, Share2, Code2, Shield, Heart, ArrowUpRight, Mail } from "lucide-react";
 
 export function Footer() {
@@ -35,7 +35,6 @@ export function Footer() {
         { name: "🚀 Launch Demo Workspace", href: demoUrl, external: true },
         { name: "💻 Source Code Repository", href: githubUrl, external: true },
         { name: "📄 Documentation PDF", href: pdfUrl, external: true },
-        { name: "🎥 Walkthrough Video", href: videoUrl, external: true },
       ],
     },
   ];

@@ -2,8 +2,8 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { demoUrl, githubUrl, pdfUrl, videoUrl } from "../../lib/constants";
-import { Terminal, Shield, FileText, Play } from "lucide-react";
+import { demoUrl, githubUrl, pdfUrl } from "../../lib/constants";
+import { Terminal, Shield, FileText } from "lucide-react";
 
 export function QuickAccessSection() {
   const cards = [
@@ -34,15 +34,6 @@ export function QuickAccessSection() {
       color: "from-amber-500/20 to-orange-500/20 hover:border-amber-500/60",
       iconColor: "text-amber-400",
     },
-    {
-      title: "Product Walkthrough Video",
-      description: "Watch a high-impact screencast highlighting automated voice reporting, duplicate detection, and sanctioning.",
-      icon: Play,
-      cta: "🎥 Watch Demo Video",
-      link: videoUrl,
-      color: "from-red-500/20 to-pink-500/20 hover:border-red-500/60",
-      iconColor: "text-red-400",
-    },
   ];
 
   return (
@@ -56,7 +47,7 @@ export function QuickAccessSection() {
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {cards.map((card, index) => {
           const Icon = card.icon;
           return (

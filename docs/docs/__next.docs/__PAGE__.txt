@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[97367,["/jansetu_ai/_next/static/chunks/1bltrwnyw0fhe.js","/jansetu_ai/_next/static/chunks/1b7uybt25_7qg.js","/jansetu_ai/_next/static/chunks/1-8s9_t85wwr4.js"],"OutletBoundary"]
+3:I[97367,["/jansetu_ai/_next/static/chunks/105v77gn521fc.js","/jansetu_ai/_next/static/chunks/0877jdz9efwch.js","/jansetu_ai/_next/static/chunks/1-8s9_t85wwr4.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2g4HYK6EVkYcNPQflRf1j"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pc971aLpx23R91AIy8BYl"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/docs/overview;307;"}
