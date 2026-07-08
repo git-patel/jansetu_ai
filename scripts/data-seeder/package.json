@@ -1,0 +1,30 @@
+{
+  "name": "@jansetu/data-seeder",
+  "version": "2.0.0",
+  "description": "Enterprise Synthetic Data Generation & Seeding Engine for JanSetu AI State of Gujarat Ecosystem",
+  "main": "dist/generate-json.js",
+  "scripts": {
+    "build": "tsc",
+    "generate": "ts-node src/generate-json.ts",
+    "seed": "ts-node src/seed-firestore.ts"
+  },
+  "keywords": [
+    "jansetu",
+    "governance",
+    "ai",
+    "synthetic-data",
+    "seeder",
+    "gujarat"
+  ],
+  "author": "JanSetu AI Architecture Team",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^13.0.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.0"
+  }
+}

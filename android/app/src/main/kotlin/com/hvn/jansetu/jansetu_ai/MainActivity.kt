@@ -1,0 +1,5 @@
+package com.hvn.jansetu.jansetu_ai
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

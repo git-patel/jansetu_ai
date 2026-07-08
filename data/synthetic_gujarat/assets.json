@@ -1,0 +1,1802 @@
+[
+  {
+    "assetId": "AST-GUJ-0001",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Savli Village",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "VIL-VAD-40",
+      "gpsCoordinate": {
+        "latitude": 22.5665,
+        "longitude": 73.22779999999999
+      },
+      "geohash": "tej8"
+    },
+    "healthIndexScore": 92.6,
+    "lastInspectionTimestamp": 1779821927,
+    "nextMaintenanceDueTimestamp": 1790719350,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0002",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Amin Marg Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-RAK-21",
+      "gpsCoordinate": {
+        "latitude": 22.2844,
+        "longitude": 70.7855
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 73.3,
+    "lastInspectionTimestamp": 1779670277,
+    "nextMaintenanceDueTimestamp": 1786712063,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0003",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Mansa Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-GAN-49",
+      "gpsCoordinate": {
+        "latitude": 23.4285,
+        "longitude": 72.6578
+      },
+      "geohash": "ts75"
+    },
+    "healthIndexScore": 70.2,
+    "lastInspectionTimestamp": 1777335140,
+    "nextMaintenanceDueTimestamp": 1792827944,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0004",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Karjan Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-VAD-38",
+      "gpsCoordinate": {
+        "latitude": 22.0574,
+        "longitude": 73.1263
+      },
+      "geohash": "tehr"
+    },
+    "healthIndexScore": 84.3,
+    "lastInspectionTimestamp": 1778932776,
+    "nextMaintenanceDueTimestamp": 1797780023,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0005",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - University Road Ward",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "WRD-RAK-23",
+      "gpsCoordinate": {
+        "latitude": 22.2896,
+        "longitude": 70.7634
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 68.3,
+    "lastInspectionTimestamp": 1776922258,
+    "nextMaintenanceDueTimestamp": 1795901869,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0006",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Alkapuri Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-VAD-31",
+      "gpsCoordinate": {
+        "latitude": 22.3126,
+        "longitude": 73.1658
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 81.8,
+    "lastInspectionTimestamp": 1777059018,
+    "nextMaintenanceDueTimestamp": 1796231270,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0007",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Karjan Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-VAD-38",
+      "gpsCoordinate": {
+        "latitude": 22.0521,
+        "longitude": 73.1279
+      },
+      "geohash": "tehr"
+    },
+    "healthIndexScore": 89.5,
+    "lastInspectionTimestamp": 1778640242,
+    "nextMaintenanceDueTimestamp": 1791350264,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0008",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Karelibaug Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-VAD-35",
+      "gpsCoordinate": {
+        "latitude": 22.3259,
+        "longitude": 73.2068
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 89.5,
+    "lastInspectionTimestamp": 1777851896,
+    "nextMaintenanceDueTimestamp": 1793453318,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0009",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Piplod Ward 18",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-SRT-16",
+      "gpsCoordinate": {
+        "latitude": 21.1557,
+        "longitude": 72.768
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 71.9,
+    "lastInspectionTimestamp": 1778777557,
+    "nextMaintenanceDueTimestamp": 1787332105,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0010",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Bavla Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-AHM-08",
+      "gpsCoordinate": {
+        "latitude": 22.834899999999998,
+        "longitude": 72.36760000000001
+      },
+      "geohash": "ts5c"
+    },
+    "healthIndexScore": 92,
+    "lastInspectionTimestamp": 1778560754,
+    "nextMaintenanceDueTimestamp": 1794402423,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0011",
+    "assetName": "Panchayat Community Hall & Civic Center - Gondal Town",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-RAK-27",
+      "gpsCoordinate": {
+        "latitude": 21.9635,
+        "longitude": 70.7958
+      },
+      "geohash": "tecr"
+    },
+    "healthIndexScore": 62,
+    "lastInspectionTimestamp": 1782032574,
+    "nextMaintenanceDueTimestamp": 1795546336,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0012",
+    "assetName": "Panchayat Community Hall & Civic Center - Gotri Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-VAD-33",
+      "gpsCoordinate": {
+        "latitude": 22.3161,
+        "longitude": 73.1383
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 67.2,
+    "lastInspectionTimestamp": 1776870977,
+    "nextMaintenanceDueTimestamp": 1796722592,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0013",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Bhaktinagar Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-RAK-25",
+      "gpsCoordinate": {
+        "latitude": 22.278200000000002,
+        "longitude": 70.81439999999999
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 94.2,
+    "lastInspectionTimestamp": 1776123235,
+    "nextMaintenanceDueTimestamp": 1795979216,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0014",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Bhaktinagar Ward",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "WRD-RAK-25",
+      "gpsCoordinate": {
+        "latitude": 22.282500000000002,
+        "longitude": 70.8141
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 64.7,
+    "lastInspectionTimestamp": 1779842078,
+    "nextMaintenanceDueTimestamp": 1795042886,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0015",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Navrangpura Ward",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "WRD-AHM-01",
+      "gpsCoordinate": {
+        "latitude": 23.0339,
+        "longitude": 72.56269999999999
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 80.5,
+    "lastInspectionTimestamp": 1776568598,
+    "nextMaintenanceDueTimestamp": 1797716942,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0016",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Paldi Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-AHM-02",
+      "gpsCoordinate": {
+        "latitude": 23.014,
+        "longitude": 72.56360000000001
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 80,
+    "lastInspectionTimestamp": 1780176667,
+    "nextMaintenanceDueTimestamp": 1787712026,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0017",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Kalavad Road Ward",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "WRD-RAK-22",
+      "gpsCoordinate": {
+        "latitude": 22.2743,
+        "longitude": 70.7681
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 70.4,
+    "lastInspectionTimestamp": 1777784999,
+    "nextMaintenanceDueTimestamp": 1789897798,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0018",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Piplod Ward 18",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-SRT-16",
+      "gpsCoordinate": {
+        "latitude": 21.157999999999998,
+        "longitude": 72.7703
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 85.8,
+    "lastInspectionTimestamp": 1777991340,
+    "nextMaintenanceDueTimestamp": 1787235756,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0019",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Bhatha Village",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-SRT-17",
+      "gpsCoordinate": {
+        "latitude": 21.1767,
+        "longitude": 72.7546
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 60.2,
+    "lastInspectionTimestamp": 1779205811,
+    "nextMaintenanceDueTimestamp": 1792240785,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0020",
+    "assetName": "Panchayat Community Hall & Civic Center - Piplod Ward 18",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-SRT-16",
+      "gpsCoordinate": {
+        "latitude": 21.1547,
+        "longitude": 72.77
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 87.1,
+    "lastInspectionTimestamp": 1777977535,
+    "nextMaintenanceDueTimestamp": 1791759796,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0021",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Gondal Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-RAK-27",
+      "gpsCoordinate": {
+        "latitude": 21.9593,
+        "longitude": 70.79530000000001
+      },
+      "geohash": "tecr"
+    },
+    "healthIndexScore": 92.8,
+    "lastInspectionTimestamp": 1781473878,
+    "nextMaintenanceDueTimestamp": 1796475218,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0022",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Karelibaug Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-VAD-35",
+      "gpsCoordinate": {
+        "latitude": 22.3268,
+        "longitude": 73.204
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 93.6,
+    "lastInspectionTimestamp": 1780931820,
+    "nextMaintenanceDueTimestamp": 1797187061,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0023",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Paldi Ward",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "WRD-AHM-02",
+      "gpsCoordinate": {
+        "latitude": 23.0134,
+        "longitude": 72.565
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 86.1,
+    "lastInspectionTimestamp": 1780205131,
+    "nextMaintenanceDueTimestamp": 1796457064,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0024",
+    "assetName": "Panchayat Community Hall & Civic Center - Padra Town",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-VAD-37",
+      "gpsCoordinate": {
+        "latitude": 22.2395,
+        "longitude": 73.0837
+      },
+      "geohash": "tej0"
+    },
+    "healthIndexScore": 63.2,
+    "lastInspectionTimestamp": 1776788189,
+    "nextMaintenanceDueTimestamp": 1786977416,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0025",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Sector 15 Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-GAN-41",
+      "gpsCoordinate": {
+        "latitude": 23.2332,
+        "longitude": 72.6463
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 63.6,
+    "lastInspectionTimestamp": 1776717564,
+    "nextMaintenanceDueTimestamp": 1794138298,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0026",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Olpad Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-SRT-19",
+      "gpsCoordinate": {
+        "latitude": 21.329800000000002,
+        "longitude": 72.7605
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 78.1,
+    "lastInspectionTimestamp": 1778963380,
+    "nextMaintenanceDueTimestamp": 1796893080,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0027",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Raiya Road Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-RAK-24",
+      "gpsCoordinate": {
+        "latitude": 22.3093,
+        "longitude": 70.7735
+      },
+      "geohash": "tefe"
+    },
+    "healthIndexScore": 89.2,
+    "lastInspectionTimestamp": 1782015246,
+    "nextMaintenanceDueTimestamp": 1795726643,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0028",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Adajan Ward 14",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-SRT-11",
+      "gpsCoordinate": {
+        "latitude": 21.1883,
+        "longitude": 72.7914
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 85.3,
+    "lastInspectionTimestamp": 1776115495,
+    "nextMaintenanceDueTimestamp": 1793309968,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0029",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Sargasan Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-GAN-46",
+      "gpsCoordinate": {
+        "latitude": 23.1802,
+        "longitude": 72.6072
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 73.5,
+    "lastInspectionTimestamp": 1777842471,
+    "nextMaintenanceDueTimestamp": 1786272570,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0030",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Kamrej Town",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "VIL-SRT-18",
+      "gpsCoordinate": {
+        "latitude": 21.2765,
+        "longitude": 72.9634
+      },
+      "geohash": "tehu"
+    },
+    "healthIndexScore": 69.4,
+    "lastInspectionTimestamp": 1776750340,
+    "nextMaintenanceDueTimestamp": 1797250418,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0031",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Ghatlodia Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-AHM-06",
+      "gpsCoordinate": {
+        "latitude": 23.0749,
+        "longitude": 72.5364
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 72.7,
+    "lastInspectionTimestamp": 1777723234,
+    "nextMaintenanceDueTimestamp": 1792358426,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0032",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Kamrej Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-SRT-18",
+      "gpsCoordinate": {
+        "latitude": 21.275399999999998,
+        "longitude": 72.9607
+      },
+      "geohash": "tehu"
+    },
+    "healthIndexScore": 80.1,
+    "lastInspectionTimestamp": 1779703504,
+    "nextMaintenanceDueTimestamp": 1793058137,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0033",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Maninagar Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-AHM-05",
+      "gpsCoordinate": {
+        "latitude": 22.996,
+        "longitude": 72.6049
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 93.1,
+    "lastInspectionTimestamp": 1778850590,
+    "nextMaintenanceDueTimestamp": 1787388651,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0034",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Mansa Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-GAN-49",
+      "gpsCoordinate": {
+        "latitude": 23.429100000000002,
+        "longitude": 72.6597
+      },
+      "geohash": "ts75"
+    },
+    "healthIndexScore": 62.4,
+    "lastInspectionTimestamp": 1777856966,
+    "nextMaintenanceDueTimestamp": 1798020033,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0035",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Pal Ward 15",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-SRT-12",
+      "gpsCoordinate": {
+        "latitude": 21.1733,
+        "longitude": 72.7714
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 82.8,
+    "lastInspectionTimestamp": 1776010385,
+    "nextMaintenanceDueTimestamp": 1791615633,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0036",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Kalol Town",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "VIL-GAN-47",
+      "gpsCoordinate": {
+        "latitude": 23.2448,
+        "longitude": 72.4972
+      },
+      "geohash": "ts5g"
+    },
+    "healthIndexScore": 72.7,
+    "lastInspectionTimestamp": 1780181227,
+    "nextMaintenanceDueTimestamp": 1786378591,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0037",
+    "assetName": "Panchayat Community Hall & Civic Center - Savli Village",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-VAD-40",
+      "gpsCoordinate": {
+        "latitude": 22.5667,
+        "longitude": 73.22569999999999
+      },
+      "geohash": "tej8"
+    },
+    "healthIndexScore": 80.6,
+    "lastInspectionTimestamp": 1779972996,
+    "nextMaintenanceDueTimestamp": 1789004465,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0038",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Gotri Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-VAD-33",
+      "gpsCoordinate": {
+        "latitude": 22.3201,
+        "longitude": 73.1435
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 79.6,
+    "lastInspectionTimestamp": 1779200465,
+    "nextMaintenanceDueTimestamp": 1793691085,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0039",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Karelibaug Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-VAD-35",
+      "gpsCoordinate": {
+        "latitude": 22.3258,
+        "longitude": 73.207
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 79.1,
+    "lastInspectionTimestamp": 1777372874,
+    "nextMaintenanceDueTimestamp": 1793025685,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0040",
+    "assetName": "Panchayat Community Hall & Civic Center - Varachha Ward 08",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-SRT-13",
+      "gpsCoordinate": {
+        "latitude": 21.2199,
+        "longitude": 72.8811
+      },
+      "geohash": "tehs"
+    },
+    "healthIndexScore": 91.7,
+    "lastInspectionTimestamp": 1781310002,
+    "nextMaintenanceDueTimestamp": 1796236722,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0041",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Maninagar Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-AHM-05",
+      "gpsCoordinate": {
+        "latitude": 22.9975,
+        "longitude": 72.60369999999999
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 76.1,
+    "lastInspectionTimestamp": 1780341752,
+    "nextMaintenanceDueTimestamp": 1794379603,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0042",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Infocity Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-GAN-43",
+      "gpsCoordinate": {
+        "latitude": 23.1936,
+        "longitude": 72.6294
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 68,
+    "lastInspectionTimestamp": 1780682404,
+    "nextMaintenanceDueTimestamp": 1798510306,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0043",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Katargam Ward 05",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-SRT-15",
+      "gpsCoordinate": {
+        "latitude": 21.2373,
+        "longitude": 72.8278
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 76.2,
+    "lastInspectionTimestamp": 1782244283,
+    "nextMaintenanceDueTimestamp": 1787175468,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0044",
+    "assetName": "Panchayat Community Hall & Civic Center - Bavla Town",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-AHM-08",
+      "gpsCoordinate": {
+        "latitude": 22.833199999999998,
+        "longitude": 72.3677
+      },
+      "geohash": "ts5c"
+    },
+    "healthIndexScore": 86.6,
+    "lastInspectionTimestamp": 1780007451,
+    "nextMaintenanceDueTimestamp": 1794679575,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0045",
+    "assetName": "Panchayat Community Hall & Civic Center - Gotri Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-VAD-33",
+      "gpsCoordinate": {
+        "latitude": 22.322,
+        "longitude": 73.13820000000001
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 91.1,
+    "lastInspectionTimestamp": 1782002990,
+    "nextMaintenanceDueTimestamp": 1795098091,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0046",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Viramgam Town",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "VIL-AHM-10",
+      "gpsCoordinate": {
+        "latitude": 23.1252,
+        "longitude": 72.0475
+      },
+      "geohash": "ts5d"
+    },
+    "healthIndexScore": 69.3,
+    "lastInspectionTimestamp": 1775808001,
+    "nextMaintenanceDueTimestamp": 1798146178,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0047",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Pal Ward 15",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "WRD-SRT-12",
+      "gpsCoordinate": {
+        "latitude": 21.173099999999998,
+        "longitude": 72.77080000000001
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 95.1,
+    "lastInspectionTimestamp": 1778163009,
+    "nextMaintenanceDueTimestamp": 1796203996,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0048",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Sargasan Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-GAN-46",
+      "gpsCoordinate": {
+        "latitude": 23.1812,
+        "longitude": 72.604
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 71.3,
+    "lastInspectionTimestamp": 1776796418,
+    "nextMaintenanceDueTimestamp": 1793557587,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0049",
+    "assetName": "Panchayat Community Hall & Civic Center - Karjan Town",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-VAD-38",
+      "gpsCoordinate": {
+        "latitude": 22.0535,
+        "longitude": 73.1229
+      },
+      "geohash": "tehr"
+    },
+    "healthIndexScore": 63.1,
+    "lastInspectionTimestamp": 1780853989,
+    "nextMaintenanceDueTimestamp": 1796832415,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0050",
+    "assetName": "Panchayat Community Hall & Civic Center - Viramgam Town",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-AHM-10",
+      "gpsCoordinate": {
+        "latitude": 23.1209,
+        "longitude": 72.0453
+      },
+      "geohash": "ts5d"
+    },
+    "healthIndexScore": 71.4,
+    "lastInspectionTimestamp": 1781131275,
+    "nextMaintenanceDueTimestamp": 1792878934,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0051",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Navrangpura Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-AHM-01",
+      "gpsCoordinate": {
+        "latitude": 23.0342,
+        "longitude": 72.5604
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 70.7,
+    "lastInspectionTimestamp": 1776873001,
+    "nextMaintenanceDueTimestamp": 1789034659,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0052",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Gotri Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-VAD-33",
+      "gpsCoordinate": {
+        "latitude": 22.3201,
+        "longitude": 73.1413
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 88.7,
+    "lastInspectionTimestamp": 1778884355,
+    "nextMaintenanceDueTimestamp": 1792035581,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0053",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Kudasan Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-GAN-44",
+      "gpsCoordinate": {
+        "latitude": 23.1877,
+        "longitude": 72.6304
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 89.7,
+    "lastInspectionTimestamp": 1779755137,
+    "nextMaintenanceDueTimestamp": 1793293369,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0054",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Ghatlodia Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-AHM-06",
+      "gpsCoordinate": {
+        "latitude": 23.0748,
+        "longitude": 72.5388
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 63.5,
+    "lastInspectionTimestamp": 1779616602,
+    "nextMaintenanceDueTimestamp": 1787873489,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0055",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Bhatha Village",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "VIL-SRT-17",
+      "gpsCoordinate": {
+        "latitude": 21.1783,
+        "longitude": 72.7539
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 94.7,
+    "lastInspectionTimestamp": 1777698165,
+    "nextMaintenanceDueTimestamp": 1791323008,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0056",
+    "assetName": "Panchayat Community Hall & Civic Center - Gotri Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-VAD-33",
+      "gpsCoordinate": {
+        "latitude": 22.3199,
+        "longitude": 73.1401
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 76.2,
+    "lastInspectionTimestamp": 1780099047,
+    "nextMaintenanceDueTimestamp": 1789169895,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0057",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - University Road Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-RAK-23",
+      "gpsCoordinate": {
+        "latitude": 22.2915,
+        "longitude": 70.7596
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 68.1,
+    "lastInspectionTimestamp": 1777903931,
+    "nextMaintenanceDueTimestamp": 1792246298,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0058",
+    "assetName": "Panchayat Community Hall & Civic Center - Vastrapur Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-AHM-04",
+      "gpsCoordinate": {
+        "latitude": 23.0359,
+        "longitude": 72.5249
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 89.6,
+    "lastInspectionTimestamp": 1778796366,
+    "nextMaintenanceDueTimestamp": 1795368926,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0059",
+    "assetName": "Panchayat Community Hall & Civic Center - Kothariya Road Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-RAK-26",
+      "gpsCoordinate": {
+        "latitude": 22.2581,
+        "longitude": 70.7996
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 86.3,
+    "lastInspectionTimestamp": 1780985239,
+    "nextMaintenanceDueTimestamp": 1789186198,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0060",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Viramgam Town",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "VIL-AHM-10",
+      "gpsCoordinate": {
+        "latitude": 23.1244,
+        "longitude": 72.04849999999999
+      },
+      "geohash": "ts5d"
+    },
+    "healthIndexScore": 86.8,
+    "lastInspectionTimestamp": 1778856234,
+    "nextMaintenanceDueTimestamp": 1794739209,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0061",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Mansa Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-GAN-49",
+      "gpsCoordinate": {
+        "latitude": 23.4283,
+        "longitude": 72.6568
+      },
+      "geohash": "ts75"
+    },
+    "healthIndexScore": 96.4,
+    "lastInspectionTimestamp": 1777105427,
+    "nextMaintenanceDueTimestamp": 1795222046,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0062",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Viramgam Town",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "VIL-AHM-10",
+      "gpsCoordinate": {
+        "latitude": 23.1241,
+        "longitude": 72.04639999999999
+      },
+      "geohash": "ts5d"
+    },
+    "healthIndexScore": 96.5,
+    "lastInspectionTimestamp": 1777658810,
+    "nextMaintenanceDueTimestamp": 1793884967,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0063",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Lodhika Village",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-RAK-29",
+      "gpsCoordinate": {
+        "latitude": 22.1864,
+        "longitude": 70.6276
+      },
+      "geohash": "tef6"
+    },
+    "healthIndexScore": 80.6,
+    "lastInspectionTimestamp": 1782228250,
+    "nextMaintenanceDueTimestamp": 1791946272,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0064",
+    "assetName": "Panchayat Community Hall & Civic Center - Sargasan Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-GAN-46",
+      "gpsCoordinate": {
+        "latitude": 23.1799,
+        "longitude": 72.6058
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 75.9,
+    "lastInspectionTimestamp": 1777251066,
+    "nextMaintenanceDueTimestamp": 1792154037,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0065",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Gotri Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-VAD-33",
+      "gpsCoordinate": {
+        "latitude": 22.3219,
+        "longitude": 73.13950000000001
+      },
+      "geohash": "tej2"
+    },
+    "healthIndexScore": 83,
+    "lastInspectionTimestamp": 1776485309,
+    "nextMaintenanceDueTimestamp": 1795758927,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0066",
+    "assetName": "Panchayat Community Hall & Civic Center - Savli Village",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-VAD-40",
+      "gpsCoordinate": {
+        "latitude": 22.567400000000003,
+        "longitude": 73.22479999999999
+      },
+      "geohash": "tej8"
+    },
+    "healthIndexScore": 82.9,
+    "lastInspectionTimestamp": 1776864593,
+    "nextMaintenanceDueTimestamp": 1788282732,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0067",
+    "assetName": "Panchayat Community Hall & Civic Center - University Road Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-RAK-23",
+      "gpsCoordinate": {
+        "latitude": 22.293400000000002,
+        "longitude": 70.7608
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 94.6,
+    "lastInspectionTimestamp": 1776708011,
+    "nextMaintenanceDueTimestamp": 1788339343,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0068",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Karjan Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-VAD-38",
+      "gpsCoordinate": {
+        "latitude": 22.0568,
+        "longitude": 73.1224
+      },
+      "geohash": "tehr"
+    },
+    "healthIndexScore": 69.4,
+    "lastInspectionTimestamp": 1777717995,
+    "nextMaintenanceDueTimestamp": 1794548985,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0069",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Infocity Ward",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "WRD-GAN-43",
+      "gpsCoordinate": {
+        "latitude": 23.196800000000003,
+        "longitude": 72.6293
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 67.3,
+    "lastInspectionTimestamp": 1778664058,
+    "nextMaintenanceDueTimestamp": 1794460912,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0070",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Kalavad Road Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-RAK-22",
+      "gpsCoordinate": {
+        "latitude": 22.2733,
+        "longitude": 70.7687
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 97.5,
+    "lastInspectionTimestamp": 1779361534,
+    "nextMaintenanceDueTimestamp": 1798355917,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0071",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Jasdan Town",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "VIL-RAK-28",
+      "gpsCoordinate": {
+        "latitude": 22.0345,
+        "longitude": 71.2073
+      },
+      "geohash": "tefb"
+    },
+    "healthIndexScore": 64.4,
+    "lastInspectionTimestamp": 1780275887,
+    "nextMaintenanceDueTimestamp": 1793910581,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0072",
+    "assetName": "Panchayat Community Hall & Civic Center - Ghatlodia Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-AHM-06",
+      "gpsCoordinate": {
+        "latitude": 23.072,
+        "longitude": 72.53699999999999
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 87.8,
+    "lastInspectionTimestamp": 1777583647,
+    "nextMaintenanceDueTimestamp": 1795490330,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0073",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Viramgam Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-AHM-10",
+      "gpsCoordinate": {
+        "latitude": 23.1214,
+        "longitude": 72.0437
+      },
+      "geohash": "ts5d"
+    },
+    "healthIndexScore": 89.9,
+    "lastInspectionTimestamp": 1780147976,
+    "nextMaintenanceDueTimestamp": 1796859207,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0074",
+    "assetName": "Panchayat Community Hall & Civic Center - Sargasan Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-GAN-46",
+      "gpsCoordinate": {
+        "latitude": 23.180600000000002,
+        "longitude": 72.60220000000001
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 78.7,
+    "lastInspectionTimestamp": 1781806378,
+    "nextMaintenanceDueTimestamp": 1786047560,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0075",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Olpad Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-SRT-19",
+      "gpsCoordinate": {
+        "latitude": 21.3322,
+        "longitude": 72.75959999999999
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 72.6,
+    "lastInspectionTimestamp": 1777009916,
+    "nextMaintenanceDueTimestamp": 1798413821,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0076",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Sanand Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-AHM-07",
+      "gpsCoordinate": {
+        "latitude": 22.9922,
+        "longitude": 72.3808
+      },
+      "geohash": "ts5c"
+    },
+    "healthIndexScore": 92,
+    "lastInspectionTimestamp": 1781957277,
+    "nextMaintenanceDueTimestamp": 1795888435,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0077",
+    "assetName": "Panchayat Community Hall & Civic Center - Gondal Town",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-RAK-27",
+      "gpsCoordinate": {
+        "latitude": 21.9619,
+        "longitude": 70.79780000000001
+      },
+      "geohash": "tecr"
+    },
+    "healthIndexScore": 83.4,
+    "lastInspectionTimestamp": 1777802943,
+    "nextMaintenanceDueTimestamp": 1797760709,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0078",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Lodhika Village",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-RAK-29",
+      "gpsCoordinate": {
+        "latitude": 22.182199999999998,
+        "longitude": 70.6253
+      },
+      "geohash": "tef6"
+    },
+    "healthIndexScore": 76.7,
+    "lastInspectionTimestamp": 1778865312,
+    "nextMaintenanceDueTimestamp": 1791481156,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0079",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Katargam Ward 05",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-SRT-15",
+      "gpsCoordinate": {
+        "latitude": 21.2332,
+        "longitude": 72.83
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 86.3,
+    "lastInspectionTimestamp": 1776059643,
+    "nextMaintenanceDueTimestamp": 1787163542,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0080",
+    "assetName": "Panchayat Community Hall & Civic Center - Paddhari Village",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "VIL-RAK-30",
+      "gpsCoordinate": {
+        "latitude": 22.4363,
+        "longitude": 70.6042
+      },
+      "geohash": "tefk"
+    },
+    "healthIndexScore": 79.9,
+    "lastInspectionTimestamp": 1777358825,
+    "nextMaintenanceDueTimestamp": 1785807597,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0081",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Ghatlodia Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-AHM-06",
+      "gpsCoordinate": {
+        "latitude": 23.072699999999998,
+        "longitude": 72.5362
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 66.9,
+    "lastInspectionTimestamp": 1781243280,
+    "nextMaintenanceDueTimestamp": 1794461370,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0082",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Viramgam Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-AHM-10",
+      "gpsCoordinate": {
+        "latitude": 23.1244,
+        "longitude": 72.045
+      },
+      "geohash": "ts5d"
+    },
+    "healthIndexScore": 92.4,
+    "lastInspectionTimestamp": 1778572396,
+    "nextMaintenanceDueTimestamp": 1786156820,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0083",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Kothariya Road Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-RAK-26",
+      "gpsCoordinate": {
+        "latitude": 22.2572,
+        "longitude": 70.7997
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 93.2,
+    "lastInspectionTimestamp": 1778222682,
+    "nextMaintenanceDueTimestamp": 1795766442,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0084",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Lodhika Village",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "VIL-RAK-29",
+      "gpsCoordinate": {
+        "latitude": 22.1833,
+        "longitude": 70.6273
+      },
+      "geohash": "tef6"
+    },
+    "healthIndexScore": 97.2,
+    "lastInspectionTimestamp": 1778011274,
+    "nextMaintenanceDueTimestamp": 1795618292,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0085",
+    "assetName": "Panchayat Community Hall & Civic Center - Raiya Road Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-RAK-24",
+      "gpsCoordinate": {
+        "latitude": 22.305699999999998,
+        "longitude": 70.7724
+      },
+      "geohash": "tefe"
+    },
+    "healthIndexScore": 82.3,
+    "lastInspectionTimestamp": 1782173656,
+    "nextMaintenanceDueTimestamp": 1785980826,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0086",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Gondal Town",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-RAK-27",
+      "gpsCoordinate": {
+        "latitude": 21.9626,
+        "longitude": 70.795
+      },
+      "geohash": "tecr"
+    },
+    "healthIndexScore": 79,
+    "lastInspectionTimestamp": 1781244828,
+    "nextMaintenanceDueTimestamp": 1788125518,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0087",
+    "assetName": "50,000 Liter RCC Overhead Water Storage Tank - Paldi Ward",
+    "assetType": "OVERHEAD_WATER_TANK",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "wardId": "WRD-AHM-02",
+      "gpsCoordinate": {
+        "latitude": 23.009800000000002,
+        "longitude": 72.5614
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 76,
+    "lastInspectionTimestamp": 1779844616,
+    "nextMaintenanceDueTimestamp": 1794359597,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0088",
+    "assetName": "Panchayat Community Hall & Civic Center - Maninagar Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-AHM-05",
+      "gpsCoordinate": {
+        "latitude": 22.993399999999998,
+        "longitude": 72.6052
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 66.8,
+    "lastInspectionTimestamp": 1778720839,
+    "nextMaintenanceDueTimestamp": 1788304552,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0089",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Karjan Town",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "VIL-VAD-38",
+      "gpsCoordinate": {
+        "latitude": 22.0523,
+        "longitude": 73.1271
+      },
+      "geohash": "tehr"
+    },
+    "healthIndexScore": 97.5,
+    "lastInspectionTimestamp": 1778804129,
+    "nextMaintenanceDueTimestamp": 1788246730,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0090",
+    "assetName": "Panchayat Community Hall & Civic Center - Katargam Ward 05",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-SRT-15",
+      "gpsCoordinate": {
+        "latitude": 21.2328,
+        "longitude": 72.82849999999999
+      },
+      "geohash": "tehe"
+    },
+    "healthIndexScore": 61.3,
+    "lastInspectionTimestamp": 1775791237,
+    "nextMaintenanceDueTimestamp": 1796894649,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0091",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Jasdan Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-RAK-28",
+      "gpsCoordinate": {
+        "latitude": 22.0366,
+        "longitude": 71.2043
+      },
+      "geohash": "tefb"
+    },
+    "healthIndexScore": 63.5,
+    "lastInspectionTimestamp": 1775461237,
+    "nextMaintenanceDueTimestamp": 1797541159,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0092",
+    "assetName": "Government Primary Health Center (PHC) & Dispensary - Adalaj Village",
+    "assetType": "PRIMARY_HEALTH_CENTER",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "wardId": "VIL-GAN-50",
+      "gpsCoordinate": {
+        "latitude": 23.158900000000003,
+        "longitude": 72.583
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 65.4,
+    "lastInspectionTimestamp": 1782236796,
+    "nextMaintenanceDueTimestamp": 1790803688,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0093",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Kalol Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-GAN-47",
+      "gpsCoordinate": {
+        "latitude": 23.245900000000002,
+        "longitude": 72.4933
+      },
+      "geohash": "ts5g"
+    },
+    "healthIndexScore": 96.3,
+    "lastInspectionTimestamp": 1776639581,
+    "nextMaintenanceDueTimestamp": 1792815974,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0094",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Varachha Ward 08",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-SRT-13",
+      "gpsCoordinate": {
+        "latitude": 21.2192,
+        "longitude": 72.88250000000001
+      },
+      "geohash": "tehs"
+    },
+    "healthIndexScore": 78.3,
+    "lastInspectionTimestamp": 1781660849,
+    "nextMaintenanceDueTimestamp": 1798150531,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0095",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Viramgam Town",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "VIL-AHM-10",
+      "gpsCoordinate": {
+        "latitude": 23.1217,
+        "longitude": 72.0452
+      },
+      "geohash": "ts5d"
+    },
+    "healthIndexScore": 75.6,
+    "lastInspectionTimestamp": 1776366896,
+    "nextMaintenanceDueTimestamp": 1789409266,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0096",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Lodhika Village",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "VIL-RAK-29",
+      "gpsCoordinate": {
+        "latitude": 22.1859,
+        "longitude": 70.6306
+      },
+      "geohash": "tef6"
+    },
+    "healthIndexScore": 69.4,
+    "lastInspectionTimestamp": 1775532838,
+    "nextMaintenanceDueTimestamp": 1788003526,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0097",
+    "assetName": "Samagra Shiksha Prathmik Shala (School Building) - Satellite Ward",
+    "assetType": "MUNICIPAL_SCHOOL",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "wardId": "WRD-AHM-03",
+      "gpsCoordinate": {
+        "latitude": 23.029799999999998,
+        "longitude": 72.5172
+      },
+      "geohash": "ts5e"
+    },
+    "healthIndexScore": 82.9,
+    "lastInspectionTimestamp": 1775934272,
+    "nextMaintenanceDueTimestamp": 1793855688,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0098",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Sargasan Ward",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "WRD-GAN-46",
+      "gpsCoordinate": {
+        "latitude": 23.183500000000002,
+        "longitude": 72.6046
+      },
+      "geohash": "ts5u"
+    },
+    "healthIndexScore": 90.7,
+    "lastInspectionTimestamp": 1781288323,
+    "nextMaintenanceDueTimestamp": 1788704446,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0099",
+    "assetName": "11KV Distribution Transformer & Feeder Pillar - Jasdan Town",
+    "assetType": "ELECTRIC_SUBSTATION",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "wardId": "VIL-RAK-28",
+      "gpsCoordinate": {
+        "latitude": 22.036,
+        "longitude": 71.2032
+      },
+      "geohash": "tefb"
+    },
+    "healthIndexScore": 69.5,
+    "lastInspectionTimestamp": 1779062400,
+    "nextMaintenanceDueTimestamp": 1787719423,
+    "status": "OPERATIONAL"
+  },
+  {
+    "assetId": "AST-GUJ-0100",
+    "assetName": "Panchayat Community Hall & Civic Center - Kothariya Road Ward",
+    "assetType": "COMMUNITY_HALL",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "wardId": "WRD-RAK-26",
+      "gpsCoordinate": {
+        "latitude": 22.2588,
+        "longitude": 70.7993
+      },
+      "geohash": "tefd"
+    },
+    "healthIndexScore": 70.9,
+    "lastInspectionTimestamp": 1776251746,
+    "nextMaintenanceDueTimestamp": 1794594998,
+    "status": "OPERATIONAL"
+  }
+]

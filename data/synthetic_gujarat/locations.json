@@ -1,0 +1,2300 @@
+[
+  {
+    "locationId": "STA-GUJ-0001",
+    "tier": "STATE",
+    "nameEnglish": "Gujarat",
+    "nameVernacular": "ગુજરાત",
+    "parentLocationId": "IND-0000",
+    "ancestries": [
+      "IND-0000"
+    ],
+    "geohash": "ts",
+    "centroid": {
+      "latitude": 22.2587,
+      "longitude": 71.1924
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 20.1,
+        "longitude": 68.1
+      },
+      {
+        "latitude": 24.7,
+        "longitude": 68.1
+      },
+      {
+        "latitude": 24.7,
+        "longitude": 74.4
+      },
+      {
+        "latitude": 20.1,
+        "longitude": 74.4
+      }
+    ],
+    "metadata": {
+      "censusCode": "GJ",
+      "totalVoters": 49000000,
+      "activeProjectsCount": 375
+    }
+  },
+  {
+    "locationId": "DIS-GUJ-AHM-0001",
+    "tier": "DISTRICT",
+    "nameEnglish": "Ahmedabad",
+    "nameVernacular": "અમદાવાદ",
+    "parentLocationId": "STA-GUJ-0001",
+    "ancestries": [
+      "STA-GUJ-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 23.0365,
+      "longitude": 72.5611
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "totalVoters": 2500000,
+      "activeProjectsCount": 75
+    }
+  },
+  {
+    "locationId": "PC-GUJ-AHM-0001",
+    "tier": "PARLIAMENTARY_CONSTITUENCY",
+    "nameEnglish": "Ahmedabad West",
+    "nameVernacular": "અમદાવાદ પશ્ચિમ",
+    "parentLocationId": "DIS-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 23.0365,
+      "longitude": 72.5611
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "mpUserId": "USR-MP-AHM-001",
+      "mpName": "Hon. Kirit Solanki",
+      "totalVoters": 1800000
+    }
+  },
+  {
+    "locationId": "WRD-AHM-01",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Navrangpura Ward",
+    "nameVernacular": "નવરંગપુરા વૉર્ડ",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5e",
+    "centroid": {
+      "latitude": 23.0365,
+      "longitude": 72.5611
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.0165,
+        "longitude": 72.5411
+      },
+      {
+        "latitude": 23.0565,
+        "longitude": 72.5411
+      },
+      {
+        "latitude": 23.0565,
+        "longitude": 72.58109999999999
+      },
+      {
+        "latitude": 23.0165,
+        "longitude": 72.58109999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 45000,
+      "voterCount": 31000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "WRD-AHM-02",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Paldi Ward",
+    "nameVernacular": "પાલડી વૉર્ડ",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5e",
+    "centroid": {
+      "latitude": 23.012,
+      "longitude": 72.5626
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.992,
+        "longitude": 72.54260000000001
+      },
+      {
+        "latitude": 23.032,
+        "longitude": 72.54260000000001
+      },
+      {
+        "latitude": 23.032,
+        "longitude": 72.5826
+      },
+      {
+        "latitude": 22.992,
+        "longitude": 72.5826
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 52000,
+      "voterCount": 36000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "WRD-AHM-03",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Satellite Ward",
+    "nameVernacular": "સેટેલાઈટ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5e",
+    "centroid": {
+      "latitude": 23.0282,
+      "longitude": 72.5186
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.0082,
+        "longitude": 72.49860000000001
+      },
+      {
+        "latitude": 23.048199999999998,
+        "longitude": 72.49860000000001
+      },
+      {
+        "latitude": 23.048199999999998,
+        "longitude": 72.5386
+      },
+      {
+        "latitude": 23.0082,
+        "longitude": 72.5386
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 68000,
+      "voterCount": 47000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "WRD-AHM-04",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Vastrapur Ward",
+    "nameVernacular": "વસ્ત્રાપુર વૉર્ડ",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5e",
+    "centroid": {
+      "latitude": 23.038,
+      "longitude": 72.525
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.018,
+        "longitude": 72.50500000000001
+      },
+      {
+        "latitude": 23.058,
+        "longitude": 72.50500000000001
+      },
+      {
+        "latitude": 23.058,
+        "longitude": 72.545
+      },
+      {
+        "latitude": 23.018,
+        "longitude": 72.545
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 41000,
+      "voterCount": 29000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "WRD-AHM-05",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Maninagar Ward",
+    "nameVernacular": "મણિનગર વૉર્ડ",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5e",
+    "centroid": {
+      "latitude": 22.9961,
+      "longitude": 72.6047
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.9761,
+        "longitude": 72.5847
+      },
+      {
+        "latitude": 23.016099999999998,
+        "longitude": 72.5847
+      },
+      {
+        "latitude": 23.016099999999998,
+        "longitude": 72.62469999999999
+      },
+      {
+        "latitude": 22.9761,
+        "longitude": 72.62469999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 75000,
+      "voterCount": 52000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "WRD-AHM-06",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Ghatlodia Ward",
+    "nameVernacular": "ઘાટલોડિયા વૉર્ડ",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5e",
+    "centroid": {
+      "latitude": 23.0722,
+      "longitude": 72.5367
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.0522,
+        "longitude": 72.5167
+      },
+      {
+        "latitude": 23.0922,
+        "longitude": 72.5167
+      },
+      {
+        "latitude": 23.0922,
+        "longitude": 72.55669999999999
+      },
+      {
+        "latitude": 23.0522,
+        "longitude": 72.55669999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 64000,
+      "voterCount": 44000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "VIL-AHM-07",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Sanand Town",
+    "nameVernacular": "સણંદ નગર",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5c",
+    "centroid": {
+      "latitude": 22.9912,
+      "longitude": 72.3813
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.9712,
+        "longitude": 72.3613
+      },
+      {
+        "latitude": 23.0112,
+        "longitude": 72.3613
+      },
+      {
+        "latitude": 23.0112,
+        "longitude": 72.40129999999999
+      },
+      {
+        "latitude": 22.9712,
+        "longitude": 72.40129999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 28000,
+      "voterCount": 19000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-AHM-08",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Bavla Town",
+    "nameVernacular": "બાવળા નગર",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5c",
+    "centroid": {
+      "latitude": 22.8361,
+      "longitude": 72.3683
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.8161,
+        "longitude": 72.34830000000001
+      },
+      {
+        "latitude": 22.856099999999998,
+        "longitude": 72.34830000000001
+      },
+      {
+        "latitude": 22.856099999999998,
+        "longitude": 72.3883
+      },
+      {
+        "latitude": 22.8161,
+        "longitude": 72.3883
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 31000,
+      "voterCount": 21000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-AHM-09",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Dholka Town",
+    "nameVernacular": "ધોળકા નગર",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts59",
+    "centroid": {
+      "latitude": 22.7247,
+      "longitude": 72.4647
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.7047,
+        "longitude": 72.4447
+      },
+      {
+        "latitude": 22.744699999999998,
+        "longitude": 72.4447
+      },
+      {
+        "latitude": 22.744699999999998,
+        "longitude": 72.48469999999999
+      },
+      {
+        "latitude": 22.7047,
+        "longitude": 72.48469999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 35000,
+      "voterCount": 24000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "VIL-AHM-10",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Viramgam Town",
+    "nameVernacular": "વિરમગામ નગર",
+    "parentLocationId": "PC-GUJ-AHM-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-AHM-0001",
+      "PC-GUJ-AHM-0001"
+    ],
+    "geohash": "ts5d",
+    "centroid": {
+      "latitude": 23.1235,
+      "longitude": 72.0465
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.1035,
+        "longitude": 72.0265
+      },
+      {
+        "latitude": 23.1435,
+        "longitude": 72.0265
+      },
+      {
+        "latitude": 23.1435,
+        "longitude": 72.06649999999999
+      },
+      {
+        "latitude": 23.1035,
+        "longitude": 72.06649999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 29000,
+      "voterCount": 20000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "DIS-GUJ-SRT-0001",
+    "tier": "DISTRICT",
+    "nameEnglish": "Surat",
+    "nameVernacular": "સુરત",
+    "parentLocationId": "STA-GUJ-0001",
+    "ancestries": [
+      "STA-GUJ-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 21.1889,
+      "longitude": 72.7935
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "totalVoters": 2500000,
+      "activeProjectsCount": 75
+    }
+  },
+  {
+    "locationId": "PC-GUJ-SRT-0001",
+    "tier": "PARLIAMENTARY_CONSTITUENCY",
+    "nameEnglish": "Surat Parliamentary Constituency",
+    "nameVernacular": "સુરત સંસદીય મતવિસ્તાર",
+    "parentLocationId": "DIS-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 21.1889,
+      "longitude": 72.7935
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "mpUserId": "USR-MP-SRT-001",
+      "mpName": "Hon. C. R. Patil",
+      "totalVoters": 1800000
+    }
+  },
+  {
+    "locationId": "WRD-SRT-11",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Adajan Ward 14",
+    "nameVernacular": "અડાજણ વૉર્ડ ૧૪",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehe",
+    "centroid": {
+      "latitude": 21.1889,
+      "longitude": 72.7935
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.1689,
+        "longitude": 72.7735
+      },
+      {
+        "latitude": 21.2089,
+        "longitude": 72.7735
+      },
+      {
+        "latitude": 21.2089,
+        "longitude": 72.81349999999999
+      },
+      {
+        "latitude": 21.1689,
+        "longitude": 72.81349999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 82000,
+      "voterCount": 58000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "WRD-SRT-12",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Pal Ward 15",
+    "nameVernacular": "પાલ વૉર્ડ ૧૫",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehe",
+    "centroid": {
+      "latitude": 21.171,
+      "longitude": 72.772
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.151,
+        "longitude": 72.75200000000001
+      },
+      {
+        "latitude": 21.191,
+        "longitude": 72.75200000000001
+      },
+      {
+        "latitude": 21.191,
+        "longitude": 72.792
+      },
+      {
+        "latitude": 21.151,
+        "longitude": 72.792
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 64000,
+      "voterCount": 45000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "WRD-SRT-13",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Varachha Ward 08",
+    "nameVernacular": "વરાછા વૉર્ડ ૦૮",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehs",
+    "centroid": {
+      "latitude": 21.218,
+      "longitude": 72.882
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.198,
+        "longitude": 72.86200000000001
+      },
+      {
+        "latitude": 21.238,
+        "longitude": 72.86200000000001
+      },
+      {
+        "latitude": 21.238,
+        "longitude": 72.902
+      },
+      {
+        "latitude": 21.198,
+        "longitude": 72.902
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 110000,
+      "voterCount": 78000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "WRD-SRT-14",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Vesu Ward 21",
+    "nameVernacular": "વેસુ વૉર્ડ ૨૧",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehe",
+    "centroid": {
+      "latitude": 21.135,
+      "longitude": 72.775
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.115000000000002,
+        "longitude": 72.75500000000001
+      },
+      {
+        "latitude": 21.155,
+        "longitude": 72.75500000000001
+      },
+      {
+        "latitude": 21.155,
+        "longitude": 72.795
+      },
+      {
+        "latitude": 21.115000000000002,
+        "longitude": 72.795
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 71000,
+      "voterCount": 51000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "WRD-SRT-15",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Katargam Ward 05",
+    "nameVernacular": "કતારગામ વૉર્ડ ૦૫",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehe",
+    "centroid": {
+      "latitude": 21.235,
+      "longitude": 72.829
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.215,
+        "longitude": 72.809
+      },
+      {
+        "latitude": 21.255,
+        "longitude": 72.809
+      },
+      {
+        "latitude": 21.255,
+        "longitude": 72.84899999999999
+      },
+      {
+        "latitude": 21.215,
+        "longitude": 72.84899999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 95000,
+      "voterCount": 66000,
+      "activeProjectsCount": 2
+    }
+  },
+  {
+    "locationId": "WRD-SRT-16",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Piplod Ward 18",
+    "nameVernacular": "પીપલોદ વૉર્ડ ૧૮",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehe",
+    "centroid": {
+      "latitude": 21.156,
+      "longitude": 72.768
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.136,
+        "longitude": 72.748
+      },
+      {
+        "latitude": 21.176,
+        "longitude": 72.748
+      },
+      {
+        "latitude": 21.176,
+        "longitude": 72.788
+      },
+      {
+        "latitude": 21.136,
+        "longitude": 72.788
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 53000,
+      "voterCount": 37000,
+      "activeProjectsCount": 2
+    }
+  },
+  {
+    "locationId": "VIL-SRT-17",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Bhatha Village",
+    "nameVernacular": "ભાઠા ગામ",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehe",
+    "centroid": {
+      "latitude": 21.178,
+      "longitude": 72.752
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.158,
+        "longitude": 72.732
+      },
+      {
+        "latitude": 21.198,
+        "longitude": 72.732
+      },
+      {
+        "latitude": 21.198,
+        "longitude": 72.77199999999999
+      },
+      {
+        "latitude": 21.158,
+        "longitude": 72.77199999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 18000,
+      "voterCount": 12000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "VIL-SRT-18",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Kamrej Town",
+    "nameVernacular": "કામરેજ નગર",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehu",
+    "centroid": {
+      "latitude": 21.275,
+      "longitude": 72.961
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.255,
+        "longitude": 72.941
+      },
+      {
+        "latitude": 21.294999999999998,
+        "longitude": 72.941
+      },
+      {
+        "latitude": 21.294999999999998,
+        "longitude": 72.981
+      },
+      {
+        "latitude": 21.255,
+        "longitude": 72.981
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 42000,
+      "voterCount": 29000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "VIL-SRT-19",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Olpad Town",
+    "nameVernacular": "ઓલપાડ નગર",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehe",
+    "centroid": {
+      "latitude": 21.332,
+      "longitude": 72.758
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.312,
+        "longitude": 72.738
+      },
+      {
+        "latitude": 21.352,
+        "longitude": 72.738
+      },
+      {
+        "latitude": 21.352,
+        "longitude": 72.77799999999999
+      },
+      {
+        "latitude": 21.312,
+        "longitude": 72.77799999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 26000,
+      "voterCount": 18000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-SRT-20",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Bardoli Town",
+    "nameVernacular": "બારડોલી નગર",
+    "parentLocationId": "PC-GUJ-SRT-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-SRT-0001",
+      "PC-GUJ-SRT-0001"
+    ],
+    "geohash": "tehy",
+    "centroid": {
+      "latitude": 21.124,
+      "longitude": 73.111
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.104,
+        "longitude": 73.09100000000001
+      },
+      {
+        "latitude": 21.144,
+        "longitude": 73.09100000000001
+      },
+      {
+        "latitude": 21.144,
+        "longitude": 73.131
+      },
+      {
+        "latitude": 21.104,
+        "longitude": 73.131
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 48000,
+      "voterCount": 33000,
+      "activeProjectsCount": 2
+    }
+  },
+  {
+    "locationId": "DIS-GUJ-RAK-0001",
+    "tier": "DISTRICT",
+    "nameEnglish": "Rajkot",
+    "nameVernacular": "રાજકોટ",
+    "parentLocationId": "STA-GUJ-0001",
+    "ancestries": [
+      "STA-GUJ-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 22.285,
+      "longitude": 70.785
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "totalVoters": 2500000,
+      "activeProjectsCount": 75
+    }
+  },
+  {
+    "locationId": "PC-GUJ-RAK-0001",
+    "tier": "PARLIAMENTARY_CONSTITUENCY",
+    "nameEnglish": "Rajkot Parliamentary Constituency",
+    "nameVernacular": "રાજકોટ સંસદીય મતવિસ્તાર",
+    "parentLocationId": "DIS-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 22.285,
+      "longitude": 70.785
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "mpUserId": "USR-MP-RAK-001",
+      "mpName": "Hon. Mohan Kundariya",
+      "totalVoters": 1800000
+    }
+  },
+  {
+    "locationId": "WRD-RAK-21",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Amin Marg Ward",
+    "nameVernacular": "અમીન માર્ગ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefd",
+    "centroid": {
+      "latitude": 22.285,
+      "longitude": 70.785
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.265,
+        "longitude": 70.765
+      },
+      {
+        "latitude": 22.305,
+        "longitude": 70.765
+      },
+      {
+        "latitude": 22.305,
+        "longitude": 70.80499999999999
+      },
+      {
+        "latitude": 22.265,
+        "longitude": 70.80499999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 58000,
+      "voterCount": 41000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "WRD-RAK-22",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Kalavad Road Ward",
+    "nameVernacular": "કાલાવાડ રોડ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefd",
+    "centroid": {
+      "latitude": 22.276,
+      "longitude": 70.768
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.256,
+        "longitude": 70.748
+      },
+      {
+        "latitude": 22.296,
+        "longitude": 70.748
+      },
+      {
+        "latitude": 22.296,
+        "longitude": 70.788
+      },
+      {
+        "latitude": 22.256,
+        "longitude": 70.788
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 62000,
+      "voterCount": 43000,
+      "activeProjectsCount": 2
+    }
+  },
+  {
+    "locationId": "WRD-RAK-23",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "University Road Ward",
+    "nameVernacular": "યુનિવર્સિટી રોડ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefd",
+    "centroid": {
+      "latitude": 22.291,
+      "longitude": 70.762
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.271,
+        "longitude": 70.742
+      },
+      {
+        "latitude": 22.311,
+        "longitude": 70.742
+      },
+      {
+        "latitude": 22.311,
+        "longitude": 70.782
+      },
+      {
+        "latitude": 22.271,
+        "longitude": 70.782
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 55000,
+      "voterCount": 38000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "WRD-RAK-24",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Raiya Road Ward",
+    "nameVernacular": "રૈયા રોડ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefe",
+    "centroid": {
+      "latitude": 22.308,
+      "longitude": 70.771
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.288,
+        "longitude": 70.751
+      },
+      {
+        "latitude": 22.328,
+        "longitude": 70.751
+      },
+      {
+        "latitude": 22.328,
+        "longitude": 70.791
+      },
+      {
+        "latitude": 22.288,
+        "longitude": 70.791
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 67000,
+      "voterCount": 47000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "WRD-RAK-25",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Bhaktinagar Ward",
+    "nameVernacular": "ભક્તિનગર વૉર્ડ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefd",
+    "centroid": {
+      "latitude": 22.28,
+      "longitude": 70.812
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.26,
+        "longitude": 70.792
+      },
+      {
+        "latitude": 22.3,
+        "longitude": 70.792
+      },
+      {
+        "latitude": 22.3,
+        "longitude": 70.832
+      },
+      {
+        "latitude": 22.26,
+        "longitude": 70.832
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 74000,
+      "voterCount": 51000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "WRD-RAK-26",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Kothariya Road Ward",
+    "nameVernacular": "કોઠારીયા રોડ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefd",
+    "centroid": {
+      "latitude": 22.256,
+      "longitude": 70.801
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.236,
+        "longitude": 70.781
+      },
+      {
+        "latitude": 22.276,
+        "longitude": 70.781
+      },
+      {
+        "latitude": 22.276,
+        "longitude": 70.821
+      },
+      {
+        "latitude": 22.236,
+        "longitude": 70.821
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 48000,
+      "voterCount": 33000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-RAK-27",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Gondal Town",
+    "nameVernacular": "ગોંડલ નગર",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tecr",
+    "centroid": {
+      "latitude": 21.961,
+      "longitude": 70.796
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 21.941,
+        "longitude": 70.77600000000001
+      },
+      {
+        "latitude": 21.980999999999998,
+        "longitude": 70.77600000000001
+      },
+      {
+        "latitude": 21.980999999999998,
+        "longitude": 70.816
+      },
+      {
+        "latitude": 21.941,
+        "longitude": 70.816
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 65000,
+      "voterCount": 45000,
+      "activeProjectsCount": 2
+    }
+  },
+  {
+    "locationId": "VIL-RAK-28",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Jasdan Town",
+    "nameVernacular": "જસદણ નગર",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefb",
+    "centroid": {
+      "latitude": 22.036,
+      "longitude": 71.205
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.016000000000002,
+        "longitude": 71.185
+      },
+      {
+        "latitude": 22.056,
+        "longitude": 71.185
+      },
+      {
+        "latitude": 22.056,
+        "longitude": 71.225
+      },
+      {
+        "latitude": 22.016000000000002,
+        "longitude": 71.225
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 44000,
+      "voterCount": 31000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "VIL-RAK-29",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Lodhika Village",
+    "nameVernacular": "લોધિકા ગામ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tef6",
+    "centroid": {
+      "latitude": 22.185,
+      "longitude": 70.628
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.165,
+        "longitude": 70.608
+      },
+      {
+        "latitude": 22.205,
+        "longitude": 70.608
+      },
+      {
+        "latitude": 22.205,
+        "longitude": 70.648
+      },
+      {
+        "latitude": 22.165,
+        "longitude": 70.648
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 15000,
+      "voterCount": 10000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-RAK-30",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Paddhari Village",
+    "nameVernacular": "પડધરી ગામ",
+    "parentLocationId": "PC-GUJ-RAK-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-RAK-0001",
+      "PC-GUJ-RAK-0001"
+    ],
+    "geohash": "tefk",
+    "centroid": {
+      "latitude": 22.435,
+      "longitude": 70.605
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.415,
+        "longitude": 70.58500000000001
+      },
+      {
+        "latitude": 22.455,
+        "longitude": 70.58500000000001
+      },
+      {
+        "latitude": 22.455,
+        "longitude": 70.625
+      },
+      {
+        "latitude": 22.415,
+        "longitude": 70.625
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 18000,
+      "voterCount": 12000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "DIS-GUJ-VAD-0001",
+    "tier": "DISTRICT",
+    "nameEnglish": "Vadodara",
+    "nameVernacular": "વડોદરા",
+    "parentLocationId": "STA-GUJ-0001",
+    "ancestries": [
+      "STA-GUJ-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 22.311,
+      "longitude": 73.168
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "totalVoters": 2500000,
+      "activeProjectsCount": 75
+    }
+  },
+  {
+    "locationId": "PC-GUJ-VAD-0001",
+    "tier": "PARLIAMENTARY_CONSTITUENCY",
+    "nameEnglish": "Vadodara Parliamentary Constituency",
+    "nameVernacular": "વડોદરા સંસદીય મતવિસ્તાર",
+    "parentLocationId": "DIS-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 22.311,
+      "longitude": 73.168
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "mpUserId": "USR-MP-VAD-001",
+      "mpName": "Hon. Ranjanben Bhatt",
+      "totalVoters": 1800000
+    }
+  },
+  {
+    "locationId": "WRD-VAD-31",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Alkapuri Ward",
+    "nameVernacular": "અલકાપુરી વૉર્ડ",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej2",
+    "centroid": {
+      "latitude": 22.311,
+      "longitude": 73.168
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.291,
+        "longitude": 73.14800000000001
+      },
+      {
+        "latitude": 22.331,
+        "longitude": 73.14800000000001
+      },
+      {
+        "latitude": 22.331,
+        "longitude": 73.188
+      },
+      {
+        "latitude": 22.291,
+        "longitude": 73.188
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 51000,
+      "voterCount": 36000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "WRD-VAD-32",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Sayajigunj Ward",
+    "nameVernacular": "સયાજીગંજ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej2",
+    "centroid": {
+      "latitude": 22.318,
+      "longitude": 73.185
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.298000000000002,
+        "longitude": 73.165
+      },
+      {
+        "latitude": 22.338,
+        "longitude": 73.165
+      },
+      {
+        "latitude": 22.338,
+        "longitude": 73.205
+      },
+      {
+        "latitude": 22.298000000000002,
+        "longitude": 73.205
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 59000,
+      "voterCount": 41000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "WRD-VAD-33",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Gotri Ward",
+    "nameVernacular": "ગોત્રી વૉર્ડ",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej2",
+    "centroid": {
+      "latitude": 22.319,
+      "longitude": 73.141
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.299,
+        "longitude": 73.12100000000001
+      },
+      {
+        "latitude": 22.339,
+        "longitude": 73.12100000000001
+      },
+      {
+        "latitude": 22.339,
+        "longitude": 73.161
+      },
+      {
+        "latitude": 22.299,
+        "longitude": 73.161
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 64000,
+      "voterCount": 45000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "WRD-VAD-34",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Manjalpur Ward",
+    "nameVernacular": "માંજલપુર વૉર્ડ",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej0",
+    "centroid": {
+      "latitude": 22.275,
+      "longitude": 73.195
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.255,
+        "longitude": 73.175
+      },
+      {
+        "latitude": 22.294999999999998,
+        "longitude": 73.175
+      },
+      {
+        "latitude": 22.294999999999998,
+        "longitude": 73.21499999999999
+      },
+      {
+        "latitude": 22.255,
+        "longitude": 73.21499999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 72000,
+      "voterCount": 50000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "WRD-VAD-35",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Karelibaug Ward",
+    "nameVernacular": "કારેલીબાગ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej2",
+    "centroid": {
+      "latitude": 22.325,
+      "longitude": 73.205
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.305,
+        "longitude": 73.185
+      },
+      {
+        "latitude": 22.345,
+        "longitude": 73.185
+      },
+      {
+        "latitude": 22.345,
+        "longitude": 73.225
+      },
+      {
+        "latitude": 22.305,
+        "longitude": 73.225
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 68000,
+      "voterCount": 48000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "WRD-VAD-36",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Fatehgunj Ward",
+    "nameVernacular": "ફતેહગંજ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej2",
+    "centroid": {
+      "latitude": 22.332,
+      "longitude": 73.189
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.312,
+        "longitude": 73.169
+      },
+      {
+        "latitude": 22.352,
+        "longitude": 73.169
+      },
+      {
+        "latitude": 22.352,
+        "longitude": 73.20899999999999
+      },
+      {
+        "latitude": 22.312,
+        "longitude": 73.20899999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 49000,
+      "voterCount": 34000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-VAD-37",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Padra Town",
+    "nameVernacular": "પાદરા નગર",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej0",
+    "centroid": {
+      "latitude": 22.241,
+      "longitude": 73.085
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.221,
+        "longitude": 73.065
+      },
+      {
+        "latitude": 22.261,
+        "longitude": 73.065
+      },
+      {
+        "latitude": 22.261,
+        "longitude": 73.10499999999999
+      },
+      {
+        "latitude": 22.221,
+        "longitude": 73.10499999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 41000,
+      "voterCount": 28000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "VIL-VAD-38",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Karjan Town",
+    "nameVernacular": "કરજણ નગર",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tehr",
+    "centroid": {
+      "latitude": 22.055,
+      "longitude": 73.125
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.035,
+        "longitude": 73.105
+      },
+      {
+        "latitude": 22.075,
+        "longitude": 73.105
+      },
+      {
+        "latitude": 22.075,
+        "longitude": 73.145
+      },
+      {
+        "latitude": 22.035,
+        "longitude": 73.145
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 38000,
+      "voterCount": 26000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "VIL-VAD-39",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Dabhoi Town",
+    "nameVernacular": "ડભોઇ નગર",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej1",
+    "centroid": {
+      "latitude": 22.131,
+      "longitude": 73.419
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.111,
+        "longitude": 73.399
+      },
+      {
+        "latitude": 22.151,
+        "longitude": 73.399
+      },
+      {
+        "latitude": 22.151,
+        "longitude": 73.439
+      },
+      {
+        "latitude": 22.111,
+        "longitude": 73.439
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 45000,
+      "voterCount": 31000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "VIL-VAD-40",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Savli Village",
+    "nameVernacular": "સાવલી ગામ",
+    "parentLocationId": "PC-GUJ-VAD-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-VAD-0001",
+      "PC-GUJ-VAD-0001"
+    ],
+    "geohash": "tej8",
+    "centroid": {
+      "latitude": 22.565,
+      "longitude": 73.225
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 22.545,
+        "longitude": 73.205
+      },
+      {
+        "latitude": 22.585,
+        "longitude": 73.205
+      },
+      {
+        "latitude": 22.585,
+        "longitude": 73.24499999999999
+      },
+      {
+        "latitude": 22.545,
+        "longitude": 73.24499999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 22000,
+      "voterCount": 15000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "DIS-GUJ-GAN-0001",
+    "tier": "DISTRICT",
+    "nameEnglish": "Gandhinagar",
+    "nameVernacular": "ગાંધીનગર",
+    "parentLocationId": "STA-GUJ-0001",
+    "ancestries": [
+      "STA-GUJ-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 23.232,
+      "longitude": 72.645
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "totalVoters": 2500000,
+      "activeProjectsCount": 75
+    }
+  },
+  {
+    "locationId": "PC-GUJ-GAN-0001",
+    "tier": "PARLIAMENTARY_CONSTITUENCY",
+    "nameEnglish": "Gandhinagar Parliamentary Constituency",
+    "nameVernacular": "ગાંધીનગર સંસદીય મતવિસ્તાર",
+    "parentLocationId": "DIS-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001"
+    ],
+    "geohash": "te",
+    "centroid": {
+      "latitude": 23.232,
+      "longitude": 72.645
+    },
+    "boundingPolygon": [],
+    "metadata": {
+      "mpUserId": "USR-MP-GAN-001",
+      "mpName": "Hon. Amit Shah",
+      "totalVoters": 1800000
+    }
+  },
+  {
+    "locationId": "WRD-GAN-41",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Sector 15 Ward",
+    "nameVernacular": "સેક્ટર ૧૫ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5u",
+    "centroid": {
+      "latitude": 23.232,
+      "longitude": 72.645
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.212,
+        "longitude": 72.625
+      },
+      {
+        "latitude": 23.252,
+        "longitude": 72.625
+      },
+      {
+        "latitude": 23.252,
+        "longitude": 72.66499999999999
+      },
+      {
+        "latitude": 23.212,
+        "longitude": 72.66499999999999
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 32000,
+      "voterCount": 22000,
+      "activeProjectsCount": 1
+    }
+  },
+  {
+    "locationId": "WRD-GAN-42",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Sector 21 Ward",
+    "nameVernacular": "સેક્ટર ૨૧ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5u",
+    "centroid": {
+      "latitude": 23.221,
+      "longitude": 72.658
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.201,
+        "longitude": 72.638
+      },
+      {
+        "latitude": 23.241,
+        "longitude": 72.638
+      },
+      {
+        "latitude": 23.241,
+        "longitude": 72.678
+      },
+      {
+        "latitude": 23.201,
+        "longitude": 72.678
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 38000,
+      "voterCount": 26000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "WRD-GAN-43",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Infocity Ward",
+    "nameVernacular": "ઇન્ફોસિટી વૉર્ડ",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5u",
+    "centroid": {
+      "latitude": 23.196,
+      "longitude": 72.631
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.176000000000002,
+        "longitude": 72.611
+      },
+      {
+        "latitude": 23.216,
+        "longitude": 72.611
+      },
+      {
+        "latitude": 23.216,
+        "longitude": 72.651
+      },
+      {
+        "latitude": 23.176000000000002,
+        "longitude": 72.651
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 45000,
+      "voterCount": 31000,
+      "activeProjectsCount": 2
+    }
+  },
+  {
+    "locationId": "WRD-GAN-44",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Kudasan Ward",
+    "nameVernacular": "કુડાસણ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5u",
+    "centroid": {
+      "latitude": 23.185,
+      "longitude": 72.628
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.165,
+        "longitude": 72.608
+      },
+      {
+        "latitude": 23.205,
+        "longitude": 72.608
+      },
+      {
+        "latitude": 23.205,
+        "longitude": 72.648
+      },
+      {
+        "latitude": 23.165,
+        "longitude": 72.648
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 52000,
+      "voterCount": 36000,
+      "activeProjectsCount": 3
+    }
+  },
+  {
+    "locationId": "WRD-GAN-45",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Raysan Ward",
+    "nameVernacular": "રાયસણ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5u",
+    "centroid": {
+      "latitude": 23.172,
+      "longitude": 72.641
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.152,
+        "longitude": 72.62100000000001
+      },
+      {
+        "latitude": 23.192,
+        "longitude": 72.62100000000001
+      },
+      {
+        "latitude": 23.192,
+        "longitude": 72.661
+      },
+      {
+        "latitude": 23.152,
+        "longitude": 72.661
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 41000,
+      "voterCount": 28000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "WRD-GAN-46",
+    "tier": "MUNICIPAL_WARD",
+    "nameEnglish": "Sargasan Ward",
+    "nameVernacular": "સરગાસણ વૉર્ડ",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5u",
+    "centroid": {
+      "latitude": 23.181,
+      "longitude": 72.605
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.161,
+        "longitude": 72.58500000000001
+      },
+      {
+        "latitude": 23.201,
+        "longitude": 72.58500000000001
+      },
+      {
+        "latitude": 23.201,
+        "longitude": 72.625
+      },
+      {
+        "latitude": 23.161,
+        "longitude": 72.625
+      }
+    ],
+    "metadata": {
+      "isUrban": true,
+      "population": 48000,
+      "voterCount": 33000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-GAN-47",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Kalol Town",
+    "nameVernacular": "કલોલ નગર",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5g",
+    "centroid": {
+      "latitude": 23.245,
+      "longitude": 72.495
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.225,
+        "longitude": 72.47500000000001
+      },
+      {
+        "latitude": 23.265,
+        "longitude": 72.47500000000001
+      },
+      {
+        "latitude": 23.265,
+        "longitude": 72.515
+      },
+      {
+        "latitude": 23.225,
+        "longitude": 72.515
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 75000,
+      "voterCount": 52000,
+      "activeProjectsCount": 4
+    }
+  },
+  {
+    "locationId": "VIL-GAN-48",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Dehgam Town",
+    "nameVernacular": "દહેગામ નગર",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5v",
+    "centroid": {
+      "latitude": 23.165,
+      "longitude": 72.808
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.145,
+        "longitude": 72.78800000000001
+      },
+      {
+        "latitude": 23.185,
+        "longitude": 72.78800000000001
+      },
+      {
+        "latitude": 23.185,
+        "longitude": 72.828
+      },
+      {
+        "latitude": 23.145,
+        "longitude": 72.828
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 54000,
+      "voterCount": 37000,
+      "activeProjectsCount": 2
+    }
+  },
+  {
+    "locationId": "VIL-GAN-49",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Mansa Town",
+    "nameVernacular": "માણસા નગર",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts75",
+    "centroid": {
+      "latitude": 23.428,
+      "longitude": 72.658
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.408,
+        "longitude": 72.638
+      },
+      {
+        "latitude": 23.448,
+        "longitude": 72.638
+      },
+      {
+        "latitude": 23.448,
+        "longitude": 72.678
+      },
+      {
+        "latitude": 23.408,
+        "longitude": 72.678
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 48000,
+      "voterCount": 33000,
+      "activeProjectsCount": 5
+    }
+  },
+  {
+    "locationId": "VIL-GAN-50",
+    "tier": "VILLAGE_PANCHAYAT",
+    "nameEnglish": "Adalaj Village",
+    "nameVernacular": "અડાલજ ગામ",
+    "parentLocationId": "PC-GUJ-GAN-0001",
+    "ancestries": [
+      "STA-GUJ-0001",
+      "DIS-GUJ-GAN-0001",
+      "PC-GUJ-GAN-0001"
+    ],
+    "geohash": "ts5e",
+    "centroid": {
+      "latitude": 23.161,
+      "longitude": 72.581
+    },
+    "boundingPolygon": [
+      {
+        "latitude": 23.141000000000002,
+        "longitude": 72.561
+      },
+      {
+        "latitude": 23.181,
+        "longitude": 72.561
+      },
+      {
+        "latitude": 23.181,
+        "longitude": 72.601
+      },
+      {
+        "latitude": 23.141000000000002,
+        "longitude": 72.601
+      }
+    ],
+    "metadata": {
+      "isUrban": false,
+      "population": 24000,
+      "voterCount": 16000,
+      "activeProjectsCount": 4
+    }
+  }
+]

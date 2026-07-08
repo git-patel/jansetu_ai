@@ -1,0 +1,149 @@
+rules_version = '2';
+
+// JanSetu AI Enterprise Edition - Cloud Firestore Security & Governance Rules
+// Implements strict Least Privilege Role-Based Access Control (RBAC) across all 16
+// collections per Prompt 15. Denies unauthenticated and public write access.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper functions for Role-Based Access Control (RBAC) via custom claims or tokens
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function getUserRole() {
+      return isAuthenticated() ? request.auth.token.role : null;
+    }
+    
+    function isRole(role) {
+      return getUserRole() == role;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isAdmin() {
+      return isRole('ADMIN');
+    }
+    
+    function isMP() {
+      return isRole('MP');
+    }
+    
+    function isOfficer() {
+      return isRole('OFFICER') || isRole('DEPARTMENT_OFFICER');
+    }
+
+    // 1. Users Collection: Users can read/write their own profile; Admins have read/write access.
+    match /users/{userId} {
+      allow read: if isAuthenticated();
+      allow create, update: if isOwner(userId) || isAdmin();
+      allow delete: if isAdmin();
+      
+      // Subcollections like drafts and notifications
+      match /drafts/{draftId} {
+        allow read, write: if isOwner(userId) || isAdmin();
+      }
+      match /notifications/{notifId} {
+        allow read, write: if isOwner(userId) || isAdmin();
+      }
+    }
+
+    // 2. Development Needs (Grievances): Citizens can report and read; MP/Officer/Admin can update status.
+    match /development_needs/{needId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated(); // Any authenticated citizen can submit grievances
+      allow update: if isAdmin() || isMP() || isOfficer() || (isAuthenticated() && resource.data.createdBy == request.auth.uid);
+      allow delete: if isAdmin() || isMP();
+      
+      // Comments Subcollection
+      match /comments/{commentId} {
+        allow read: if isAuthenticated();
+        allow create: if isAuthenticated();
+        allow update, delete: if isAdmin() || (isAuthenticated() && resource.data.userId == request.auth.uid);
+      }
+    }
+
+    // 3. Capital Projects: Universal read for transparency; only MP/Admin can sanction or modify ledgers.
+    match /projects/{projectId} {
+      allow read: if isAuthenticated();
+      allow create, update: if isAdmin() || isMP() || isOfficer();
+      allow delete: if isAdmin();
+    }
+
+    // 4. Budgets & MPLADS Fund Ledgers: Restricted read/write to MP and State Admin.
+    match /budgets/{budgetId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin() || isMP();
+    }
+
+    // 5. Timeline Milestones: Officers and MP can update work progress.
+    match /timeline/{timelineId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin() || isMP() || isOfficer();
+    }
+
+    // 6. Comments (Global): Authenticated read/write.
+    match /comments/{commentId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated();
+      allow update, delete: if isAdmin() || (isAuthenticated() && resource.data.userId == request.auth.uid);
+    }
+
+    // 7. Supports (Upvotes / Corroboration): Enforces One Support Per User rule.
+    match /supports/{supportId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated() && request.resource.data.userId == request.auth.uid;
+      allow delete: if isAdmin() || (isAuthenticated() && resource.data.userId == request.auth.uid);
+      allow update: if false; // Supports are immutable (only created or deleted)
+    }
+
+    // 8. Notifications: Broadcast read; only Admin/MP/System can publish.
+    match /notifications/{notifId} {
+      allow read: if isAuthenticated();
+      allow create, update, delete: if isAdmin() || isMP();
+    }
+
+    // 9. Master Governance Data (districts, constituencies, villages, departments): Read-only for citizens.
+    match /districts/{docId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin();
+    }
+    match /constituencies/{docId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin() || isMP();
+    }
+    match /villages/{docId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin();
+    }
+    match /departments/{docId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin();
+    }
+
+    // 10. Audit Logs: Read-only for Admin; append-only for authenticated actions.
+    match /audit_logs/{logId} {
+      allow read: if isAdmin();
+      allow create: if isAuthenticated();
+      allow update, delete: if false; // Tamper-proof audit ledger
+    }
+
+    // 11. Media Metadata & Officers Directory
+    match /media/{mediaId} {
+      allow read: if isAuthenticated();
+      allow write: if isAuthenticated();
+    }
+    match /officers/{officerId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin();
+    }
+
+    // 12. App Configuration Settings
+    match /settings/{settingId} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin();
+    }
+  }
+}

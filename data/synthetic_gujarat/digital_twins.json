@@ -1,0 +1,1026 @@
+[
+  {
+    "twinId": "WRD-AHM-01",
+    "locationId": "WRD-AHM-01",
+    "locationName": "Navrangpura Ward",
+    "lastUpdatedTimestamp": 1783038013,
+    "metrics": {
+      "populationDensityPerSqKm": 8935,
+      "waterSupplyCompliancePercent": 82.37,
+      "roadNetworkHealthIndex": 60.37,
+      "healthcareAccessScore": 77.52,
+      "educationInfrastructureScore": 92.23,
+      "activeGrievancesCount": 16,
+      "resolvedGrievances30Days": 41,
+      "averageSlaResolutionHours": 81,
+      "budgetUtilizationPercent": 79.58
+    },
+    "aiDevelopmentScore": 78.1,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-AHM-02",
+    "locationId": "WRD-AHM-02",
+    "locationName": "Paldi Ward",
+    "lastUpdatedTimestamp": 1783026364,
+    "metrics": {
+      "populationDensityPerSqKm": 12966,
+      "waterSupplyCompliancePercent": 72.8,
+      "roadNetworkHealthIndex": 70.28,
+      "healthcareAccessScore": 78.09,
+      "educationInfrastructureScore": 87.32,
+      "activeGrievancesCount": 22,
+      "resolvedGrievances30Days": 25,
+      "averageSlaResolutionHours": 74,
+      "budgetUtilizationPercent": 82.4
+    },
+    "aiDevelopmentScore": 77.1,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-AHM-03",
+    "locationId": "WRD-AHM-03",
+    "locationName": "Satellite Ward",
+    "lastUpdatedTimestamp": 1783105510,
+    "metrics": {
+      "populationDensityPerSqKm": 6987,
+      "waterSupplyCompliancePercent": 73.26,
+      "roadNetworkHealthIndex": 67.22,
+      "healthcareAccessScore": 80.32,
+      "educationInfrastructureScore": 87.33,
+      "activeGrievancesCount": 23,
+      "resolvedGrievances30Days": 49,
+      "averageSlaResolutionHours": 80,
+      "budgetUtilizationPercent": 89.46
+    },
+    "aiDevelopmentScore": 77,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-AHM-04",
+    "locationId": "WRD-AHM-04",
+    "locationName": "Vastrapur Ward",
+    "lastUpdatedTimestamp": 1783063359,
+    "metrics": {
+      "populationDensityPerSqKm": 14574,
+      "waterSupplyCompliancePercent": 93.17,
+      "roadNetworkHealthIndex": 55.69,
+      "healthcareAccessScore": 68.25,
+      "educationInfrastructureScore": 93.68,
+      "activeGrievancesCount": 22,
+      "resolvedGrievances30Days": 34,
+      "averageSlaResolutionHours": 98,
+      "budgetUtilizationPercent": 67.27
+    },
+    "aiDevelopmentScore": 77.7,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-AHM-05",
+    "locationId": "WRD-AHM-05",
+    "locationName": "Maninagar Ward",
+    "lastUpdatedTimestamp": 1783066197,
+    "metrics": {
+      "populationDensityPerSqKm": 4953,
+      "waterSupplyCompliancePercent": 86.08,
+      "roadNetworkHealthIndex": 57.39,
+      "healthcareAccessScore": 95.54,
+      "educationInfrastructureScore": 77.3,
+      "activeGrievancesCount": 19,
+      "resolvedGrievances30Days": 23,
+      "averageSlaResolutionHours": 30,
+      "budgetUtilizationPercent": 88.22
+    },
+    "aiDevelopmentScore": 79.1,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-AHM-06",
+    "locationId": "WRD-AHM-06",
+    "locationName": "Ghatlodia Ward",
+    "lastUpdatedTimestamp": 1783064864,
+    "metrics": {
+      "populationDensityPerSqKm": 13348,
+      "waterSupplyCompliancePercent": 76.23,
+      "roadNetworkHealthIndex": 57.81,
+      "healthcareAccessScore": 83.49,
+      "educationInfrastructureScore": 97.76,
+      "activeGrievancesCount": 16,
+      "resolvedGrievances30Days": 53,
+      "averageSlaResolutionHours": 25,
+      "budgetUtilizationPercent": 80.36
+    },
+    "aiDevelopmentScore": 78.8,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-AHM-07",
+    "locationId": "VIL-AHM-07",
+    "locationName": "Sanand Town",
+    "lastUpdatedTimestamp": 1783045844,
+    "metrics": {
+      "populationDensityPerSqKm": 10244,
+      "waterSupplyCompliancePercent": 74.08,
+      "roadNetworkHealthIndex": 77.36,
+      "healthcareAccessScore": 92.99,
+      "educationInfrastructureScore": 94.81,
+      "activeGrievancesCount": 7,
+      "resolvedGrievances30Days": 54,
+      "averageSlaResolutionHours": 43,
+      "budgetUtilizationPercent": 93.36
+    },
+    "aiDevelopmentScore": 84.8,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-AHM-08",
+    "locationId": "VIL-AHM-08",
+    "locationName": "Bavla Town",
+    "lastUpdatedTimestamp": 1783070400,
+    "metrics": {
+      "populationDensityPerSqKm": 13289,
+      "waterSupplyCompliancePercent": 81.59,
+      "roadNetworkHealthIndex": 90.21,
+      "healthcareAccessScore": 77.1,
+      "educationInfrastructureScore": 83.71,
+      "activeGrievancesCount": 21,
+      "resolvedGrievances30Days": 50,
+      "averageSlaResolutionHours": 63,
+      "budgetUtilizationPercent": 74.39
+    },
+    "aiDevelopmentScore": 83.2,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-AHM-09",
+    "locationId": "VIL-AHM-09",
+    "locationName": "Dholka Town",
+    "lastUpdatedTimestamp": 1783105458,
+    "metrics": {
+      "populationDensityPerSqKm": 6140,
+      "waterSupplyCompliancePercent": 72.82,
+      "roadNetworkHealthIndex": 69.04,
+      "healthcareAccessScore": 81.65,
+      "educationInfrastructureScore": 92.9,
+      "activeGrievancesCount": 20,
+      "resolvedGrievances30Days": 42,
+      "averageSlaResolutionHours": 44,
+      "budgetUtilizationPercent": 85.93
+    },
+    "aiDevelopmentScore": 79.1,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-AHM-10",
+    "locationId": "VIL-AHM-10",
+    "locationName": "Viramgam Town",
+    "lastUpdatedTimestamp": 1783094939,
+    "metrics": {
+      "populationDensityPerSqKm": 3995,
+      "waterSupplyCompliancePercent": 89.85,
+      "roadNetworkHealthIndex": 72.33,
+      "healthcareAccessScore": 76.34,
+      "educationInfrastructureScore": 88,
+      "activeGrievancesCount": 7,
+      "resolvedGrievances30Days": 44,
+      "averageSlaResolutionHours": 92,
+      "budgetUtilizationPercent": 68.73
+    },
+    "aiDevelopmentScore": 81.6,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-SRT-11",
+    "locationId": "WRD-SRT-11",
+    "locationName": "Adajan Ward 14",
+    "lastUpdatedTimestamp": 1783051463,
+    "metrics": {
+      "populationDensityPerSqKm": 3328,
+      "waterSupplyCompliancePercent": 80.37,
+      "roadNetworkHealthIndex": 64.37,
+      "healthcareAccessScore": 65.67,
+      "educationInfrastructureScore": 89.62,
+      "activeGrievancesCount": 12,
+      "resolvedGrievances30Days": 59,
+      "averageSlaResolutionHours": 41,
+      "budgetUtilizationPercent": 73.17
+    },
+    "aiDevelopmentScore": 75,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-SRT-12",
+    "locationId": "WRD-SRT-12",
+    "locationName": "Pal Ward 15",
+    "lastUpdatedTimestamp": 1783095534,
+    "metrics": {
+      "populationDensityPerSqKm": 3078,
+      "waterSupplyCompliancePercent": 76.66,
+      "roadNetworkHealthIndex": 61.27,
+      "healthcareAccessScore": 70.27,
+      "educationInfrastructureScore": 91.45,
+      "activeGrievancesCount": 25,
+      "resolvedGrievances30Days": 43,
+      "averageSlaResolutionHours": 84,
+      "budgetUtilizationPercent": 89.15
+    },
+    "aiDevelopmentScore": 74.9,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-SRT-13",
+    "locationId": "WRD-SRT-13",
+    "locationName": "Varachha Ward 08",
+    "lastUpdatedTimestamp": 1783041173,
+    "metrics": {
+      "populationDensityPerSqKm": 9513,
+      "waterSupplyCompliancePercent": 95.85,
+      "roadNetworkHealthIndex": 76.92,
+      "healthcareAccessScore": 89.75,
+      "educationInfrastructureScore": 77.41,
+      "activeGrievancesCount": 6,
+      "resolvedGrievances30Days": 19,
+      "averageSlaResolutionHours": 32,
+      "budgetUtilizationPercent": 75.59
+    },
+    "aiDevelopmentScore": 85,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-SRT-14",
+    "locationId": "WRD-SRT-14",
+    "locationName": "Vesu Ward 21",
+    "lastUpdatedTimestamp": 1783056235,
+    "metrics": {
+      "populationDensityPerSqKm": 14709,
+      "waterSupplyCompliancePercent": 78.87,
+      "roadNetworkHealthIndex": 76.3,
+      "healthcareAccessScore": 69.38,
+      "educationInfrastructureScore": 77.02,
+      "activeGrievancesCount": 8,
+      "resolvedGrievances30Days": 17,
+      "averageSlaResolutionHours": 27,
+      "budgetUtilizationPercent": 93.5
+    },
+    "aiDevelopmentScore": 75.4,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-SRT-15",
+    "locationId": "WRD-SRT-15",
+    "locationName": "Katargam Ward 05",
+    "lastUpdatedTimestamp": 1783085018,
+    "metrics": {
+      "populationDensityPerSqKm": 8030,
+      "waterSupplyCompliancePercent": 73.92,
+      "roadNetworkHealthIndex": 59.64,
+      "healthcareAccessScore": 65.74,
+      "educationInfrastructureScore": 95.45,
+      "activeGrievancesCount": 17,
+      "resolvedGrievances30Days": 21,
+      "averageSlaResolutionHours": 53,
+      "budgetUtilizationPercent": 75.7
+    },
+    "aiDevelopmentScore": 73.7,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-SRT-16",
+    "locationId": "WRD-SRT-16",
+    "locationName": "Piplod Ward 18",
+    "lastUpdatedTimestamp": 1783037554,
+    "metrics": {
+      "populationDensityPerSqKm": 3400,
+      "waterSupplyCompliancePercent": 73.65,
+      "roadNetworkHealthIndex": 59.91,
+      "healthcareAccessScore": 88.37,
+      "educationInfrastructureScore": 77.5,
+      "activeGrievancesCount": 12,
+      "resolvedGrievances30Days": 28,
+      "averageSlaResolutionHours": 107,
+      "budgetUtilizationPercent": 66.31
+    },
+    "aiDevelopmentScore": 74.9,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-SRT-17",
+    "locationId": "VIL-SRT-17",
+    "locationName": "Bhatha Village",
+    "lastUpdatedTimestamp": 1783064812,
+    "metrics": {
+      "populationDensityPerSqKm": 8133,
+      "waterSupplyCompliancePercent": 91.57,
+      "roadNetworkHealthIndex": 77.26,
+      "healthcareAccessScore": 65.11,
+      "educationInfrastructureScore": 81.41,
+      "activeGrievancesCount": 21,
+      "resolvedGrievances30Days": 56,
+      "averageSlaResolutionHours": 109,
+      "budgetUtilizationPercent": 71.8
+    },
+    "aiDevelopmentScore": 78.8,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-SRT-18",
+    "locationId": "VIL-SRT-18",
+    "locationName": "Kamrej Town",
+    "lastUpdatedTimestamp": 1783088388,
+    "metrics": {
+      "populationDensityPerSqKm": 11965,
+      "waterSupplyCompliancePercent": 95.43,
+      "roadNetworkHealthIndex": 63.5,
+      "healthcareAccessScore": 73.85,
+      "educationInfrastructureScore": 75.24,
+      "activeGrievancesCount": 6,
+      "resolvedGrievances30Days": 23,
+      "averageSlaResolutionHours": 82,
+      "budgetUtilizationPercent": 77.69
+    },
+    "aiDevelopmentScore": 77,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-SRT-19",
+    "locationId": "VIL-SRT-19",
+    "locationName": "Olpad Town",
+    "lastUpdatedTimestamp": 1783040293,
+    "metrics": {
+      "populationDensityPerSqKm": 7113,
+      "waterSupplyCompliancePercent": 65.64,
+      "roadNetworkHealthIndex": 70.54,
+      "healthcareAccessScore": 71.96,
+      "educationInfrastructureScore": 76.06,
+      "activeGrievancesCount": 11,
+      "resolvedGrievances30Days": 41,
+      "averageSlaResolutionHours": 111,
+      "budgetUtilizationPercent": 78.44
+    },
+    "aiDevelopmentScore": 71,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-SRT-20",
+    "locationId": "VIL-SRT-20",
+    "locationName": "Bardoli Town",
+    "lastUpdatedTimestamp": 1783097365,
+    "metrics": {
+      "populationDensityPerSqKm": 13231,
+      "waterSupplyCompliancePercent": 71.77,
+      "roadNetworkHealthIndex": 75.93,
+      "healthcareAccessScore": 65.08,
+      "educationInfrastructureScore": 81.84,
+      "activeGrievancesCount": 14,
+      "resolvedGrievances30Days": 51,
+      "averageSlaResolutionHours": 78,
+      "budgetUtilizationPercent": 88.82
+    },
+    "aiDevelopmentScore": 73.7,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-RAK-21",
+    "locationId": "WRD-RAK-21",
+    "locationName": "Amin Marg Ward",
+    "lastUpdatedTimestamp": 1783032471,
+    "metrics": {
+      "populationDensityPerSqKm": 5511,
+      "waterSupplyCompliancePercent": 96.82,
+      "roadNetworkHealthIndex": 87.01,
+      "healthcareAccessScore": 91.11,
+      "educationInfrastructureScore": 71.11,
+      "activeGrievancesCount": 23,
+      "resolvedGrievances30Days": 19,
+      "averageSlaResolutionHours": 60,
+      "budgetUtilizationPercent": 76.62
+    },
+    "aiDevelopmentScore": 86.5,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-RAK-22",
+    "locationId": "WRD-RAK-22",
+    "locationName": "Kalavad Road Ward",
+    "lastUpdatedTimestamp": 1783034310,
+    "metrics": {
+      "populationDensityPerSqKm": 3825,
+      "waterSupplyCompliancePercent": 86.61,
+      "roadNetworkHealthIndex": 85.26,
+      "healthcareAccessScore": 67.53,
+      "educationInfrastructureScore": 77.97,
+      "activeGrievancesCount": 11,
+      "resolvedGrievances30Days": 37,
+      "averageSlaResolutionHours": 77,
+      "budgetUtilizationPercent": 66.83
+    },
+    "aiDevelopmentScore": 79.3,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-RAK-23",
+    "locationId": "WRD-RAK-23",
+    "locationName": "University Road Ward",
+    "lastUpdatedTimestamp": 1783080141,
+    "metrics": {
+      "populationDensityPerSqKm": 14803,
+      "waterSupplyCompliancePercent": 89.32,
+      "roadNetworkHealthIndex": 63.08,
+      "healthcareAccessScore": 87.59,
+      "educationInfrastructureScore": 72.83,
+      "activeGrievancesCount": 19,
+      "resolvedGrievances30Days": 60,
+      "averageSlaResolutionHours": 79,
+      "budgetUtilizationPercent": 75.3
+    },
+    "aiDevelopmentScore": 78.2,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-RAK-24",
+    "locationId": "WRD-RAK-24",
+    "locationName": "Raiya Road Ward",
+    "lastUpdatedTimestamp": 1783078339,
+    "metrics": {
+      "populationDensityPerSqKm": 3394,
+      "waterSupplyCompliancePercent": 79.07,
+      "roadNetworkHealthIndex": 81.75,
+      "healthcareAccessScore": 92.64,
+      "educationInfrastructureScore": 80.72,
+      "activeGrievancesCount": 20,
+      "resolvedGrievances30Days": 27,
+      "averageSlaResolutionHours": 112,
+      "budgetUtilizationPercent": 66.18
+    },
+    "aiDevelopmentScore": 83.5,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-RAK-25",
+    "locationId": "WRD-RAK-25",
+    "locationName": "Bhaktinagar Ward",
+    "lastUpdatedTimestamp": 1783049162,
+    "metrics": {
+      "populationDensityPerSqKm": 14308,
+      "waterSupplyCompliancePercent": 77.78,
+      "roadNetworkHealthIndex": 93.34,
+      "healthcareAccessScore": 90.06,
+      "educationInfrastructureScore": 70.33,
+      "activeGrievancesCount": 5,
+      "resolvedGrievances30Days": 57,
+      "averageSlaResolutionHours": 92,
+      "budgetUtilizationPercent": 87.09
+    },
+    "aiDevelopmentScore": 82.9,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-RAK-26",
+    "locationId": "WRD-RAK-26",
+    "locationName": "Kothariya Road Ward",
+    "lastUpdatedTimestamp": 1783088159,
+    "metrics": {
+      "populationDensityPerSqKm": 8687,
+      "waterSupplyCompliancePercent": 64.63,
+      "roadNetworkHealthIndex": 71.23,
+      "healthcareAccessScore": 93.74,
+      "educationInfrastructureScore": 89.94,
+      "activeGrievancesCount": 12,
+      "resolvedGrievances30Days": 29,
+      "averageSlaResolutionHours": 87,
+      "budgetUtilizationPercent": 87.63
+    },
+    "aiDevelopmentScore": 79.9,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-RAK-27",
+    "locationId": "VIL-RAK-27",
+    "locationName": "Gondal Town",
+    "lastUpdatedTimestamp": 1783035665,
+    "metrics": {
+      "populationDensityPerSqKm": 13539,
+      "waterSupplyCompliancePercent": 73.46,
+      "roadNetworkHealthIndex": 87.54,
+      "healthcareAccessScore": 70.6,
+      "educationInfrastructureScore": 79.52,
+      "activeGrievancesCount": 15,
+      "resolvedGrievances30Days": 19,
+      "averageSlaResolutionHours": 90,
+      "budgetUtilizationPercent": 75.5
+    },
+    "aiDevelopmentScore": 77.8,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-RAK-28",
+    "locationId": "VIL-RAK-28",
+    "locationName": "Jasdan Town",
+    "lastUpdatedTimestamp": 1783072912,
+    "metrics": {
+      "populationDensityPerSqKm": 10166,
+      "waterSupplyCompliancePercent": 88.09,
+      "roadNetworkHealthIndex": 79.71,
+      "healthcareAccessScore": 76.39,
+      "educationInfrastructureScore": 91.77,
+      "activeGrievancesCount": 25,
+      "resolvedGrievances30Days": 55,
+      "averageSlaResolutionHours": 120,
+      "budgetUtilizationPercent": 83.32
+    },
+    "aiDevelopmentScore": 84,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-RAK-29",
+    "locationId": "VIL-RAK-29",
+    "locationName": "Lodhika Village",
+    "lastUpdatedTimestamp": 1783096800,
+    "metrics": {
+      "populationDensityPerSqKm": 3830,
+      "waterSupplyCompliancePercent": 85.38,
+      "roadNetworkHealthIndex": 91.54,
+      "healthcareAccessScore": 79.09,
+      "educationInfrastructureScore": 98.51,
+      "activeGrievancesCount": 25,
+      "resolvedGrievances30Days": 33,
+      "averageSlaResolutionHours": 89,
+      "budgetUtilizationPercent": 69.04
+    },
+    "aiDevelopmentScore": 88.6,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-RAK-30",
+    "locationId": "VIL-RAK-30",
+    "locationName": "Paddhari Village",
+    "lastUpdatedTimestamp": 1783039801,
+    "metrics": {
+      "populationDensityPerSqKm": 11154,
+      "waterSupplyCompliancePercent": 64.79,
+      "roadNetworkHealthIndex": 67.72,
+      "healthcareAccessScore": 94.42,
+      "educationInfrastructureScore": 91.24,
+      "activeGrievancesCount": 13,
+      "resolvedGrievances30Days": 25,
+      "averageSlaResolutionHours": 42,
+      "budgetUtilizationPercent": 80.36
+    },
+    "aiDevelopmentScore": 79.5,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-VAD-31",
+    "locationId": "WRD-VAD-31",
+    "locationName": "Alkapuri Ward",
+    "lastUpdatedTimestamp": 1783044915,
+    "metrics": {
+      "populationDensityPerSqKm": 9544,
+      "waterSupplyCompliancePercent": 84.62,
+      "roadNetworkHealthIndex": 72.87,
+      "healthcareAccessScore": 82.17,
+      "educationInfrastructureScore": 98.76,
+      "activeGrievancesCount": 18,
+      "resolvedGrievances30Days": 43,
+      "averageSlaResolutionHours": 34,
+      "budgetUtilizationPercent": 65.03
+    },
+    "aiDevelopmentScore": 84.6,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-VAD-32",
+    "locationId": "WRD-VAD-32",
+    "locationName": "Sayajigunj Ward",
+    "lastUpdatedTimestamp": 1783031089,
+    "metrics": {
+      "populationDensityPerSqKm": 14323,
+      "waterSupplyCompliancePercent": 77.26,
+      "roadNetworkHealthIndex": 75.4,
+      "healthcareAccessScore": 74.43,
+      "educationInfrastructureScore": 78.01,
+      "activeGrievancesCount": 17,
+      "resolvedGrievances30Days": 48,
+      "averageSlaResolutionHours": 108,
+      "budgetUtilizationPercent": 65.89
+    },
+    "aiDevelopmentScore": 76.3,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-VAD-33",
+    "locationId": "WRD-VAD-33",
+    "locationName": "Gotri Ward",
+    "lastUpdatedTimestamp": 1783102618,
+    "metrics": {
+      "populationDensityPerSqKm": 12552,
+      "waterSupplyCompliancePercent": 65.17,
+      "roadNetworkHealthIndex": 83.65,
+      "healthcareAccessScore": 76.26,
+      "educationInfrastructureScore": 87.59,
+      "activeGrievancesCount": 13,
+      "resolvedGrievances30Days": 44,
+      "averageSlaResolutionHours": 106,
+      "budgetUtilizationPercent": 90.7
+    },
+    "aiDevelopmentScore": 78.2,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-VAD-34",
+    "locationId": "WRD-VAD-34",
+    "locationName": "Manjalpur Ward",
+    "lastUpdatedTimestamp": 1783042712,
+    "metrics": {
+      "populationDensityPerSqKm": 11243,
+      "waterSupplyCompliancePercent": 79.32,
+      "roadNetworkHealthIndex": 61.64,
+      "healthcareAccessScore": 83.11,
+      "educationInfrastructureScore": 86.62,
+      "activeGrievancesCount": 9,
+      "resolvedGrievances30Days": 44,
+      "averageSlaResolutionHours": 31,
+      "budgetUtilizationPercent": 82.16
+    },
+    "aiDevelopmentScore": 77.7,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-VAD-35",
+    "locationId": "WRD-VAD-35",
+    "locationName": "Karelibaug Ward",
+    "lastUpdatedTimestamp": 1783069057,
+    "metrics": {
+      "populationDensityPerSqKm": 3953,
+      "waterSupplyCompliancePercent": 83.32,
+      "roadNetworkHealthIndex": 92.79,
+      "healthcareAccessScore": 65.93,
+      "educationInfrastructureScore": 81.6,
+      "activeGrievancesCount": 22,
+      "resolvedGrievances30Days": 42,
+      "averageSlaResolutionHours": 75,
+      "budgetUtilizationPercent": 85.67
+    },
+    "aiDevelopmentScore": 80.9,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-VAD-36",
+    "locationId": "WRD-VAD-36",
+    "locationName": "Fatehgunj Ward",
+    "lastUpdatedTimestamp": 1783090637,
+    "metrics": {
+      "populationDensityPerSqKm": 12788,
+      "waterSupplyCompliancePercent": 72.21,
+      "roadNetworkHealthIndex": 71.72,
+      "healthcareAccessScore": 68.49,
+      "educationInfrastructureScore": 71.86,
+      "activeGrievancesCount": 23,
+      "resolvedGrievances30Days": 25,
+      "averageSlaResolutionHours": 44,
+      "budgetUtilizationPercent": 65.08
+    },
+    "aiDevelopmentScore": 71.1,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-VAD-37",
+    "locationId": "VIL-VAD-37",
+    "locationName": "Padra Town",
+    "lastUpdatedTimestamp": 1783096718,
+    "metrics": {
+      "populationDensityPerSqKm": 3308,
+      "waterSupplyCompliancePercent": 74.79,
+      "roadNetworkHealthIndex": 70.17,
+      "healthcareAccessScore": 89.18,
+      "educationInfrastructureScore": 75.33,
+      "activeGrievancesCount": 18,
+      "resolvedGrievances30Days": 52,
+      "averageSlaResolutionHours": 42,
+      "budgetUtilizationPercent": 83.11
+    },
+    "aiDevelopmentScore": 77.4,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-VAD-38",
+    "locationId": "VIL-VAD-38",
+    "locationName": "Karjan Town",
+    "lastUpdatedTimestamp": 1783101948,
+    "metrics": {
+      "populationDensityPerSqKm": 8802,
+      "waterSupplyCompliancePercent": 66.98,
+      "roadNetworkHealthIndex": 76.05,
+      "healthcareAccessScore": 93.44,
+      "educationInfrastructureScore": 73.6,
+      "activeGrievancesCount": 23,
+      "resolvedGrievances30Days": 35,
+      "averageSlaResolutionHours": 25,
+      "budgetUtilizationPercent": 67.13
+    },
+    "aiDevelopmentScore": 77.5,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-VAD-39",
+    "locationId": "VIL-VAD-39",
+    "locationName": "Dabhoi Town",
+    "lastUpdatedTimestamp": 1783034934,
+    "metrics": {
+      "populationDensityPerSqKm": 9237,
+      "waterSupplyCompliancePercent": 77.28,
+      "roadNetworkHealthIndex": 74.67,
+      "healthcareAccessScore": 67.66,
+      "educationInfrastructureScore": 84.5,
+      "activeGrievancesCount": 15,
+      "resolvedGrievances30Days": 39,
+      "averageSlaResolutionHours": 83,
+      "budgetUtilizationPercent": 83.83
+    },
+    "aiDevelopmentScore": 76,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-VAD-40",
+    "locationId": "VIL-VAD-40",
+    "locationName": "Savli Village",
+    "lastUpdatedTimestamp": 1783108265,
+    "metrics": {
+      "populationDensityPerSqKm": 10161,
+      "waterSupplyCompliancePercent": 61.71,
+      "roadNetworkHealthIndex": 59.29,
+      "healthcareAccessScore": 66.74,
+      "educationInfrastructureScore": 91.15,
+      "activeGrievancesCount": 11,
+      "resolvedGrievances30Days": 48,
+      "averageSlaResolutionHours": 55,
+      "budgetUtilizationPercent": 73.14
+    },
+    "aiDevelopmentScore": 69.7,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-GAN-41",
+    "locationId": "WRD-GAN-41",
+    "locationName": "Sector 15 Ward",
+    "lastUpdatedTimestamp": 1783042813,
+    "metrics": {
+      "populationDensityPerSqKm": 3077,
+      "waterSupplyCompliancePercent": 67.63,
+      "roadNetworkHealthIndex": 84.29,
+      "healthcareAccessScore": 71.39,
+      "educationInfrastructureScore": 91.38,
+      "activeGrievancesCount": 12,
+      "resolvedGrievances30Days": 59,
+      "averageSlaResolutionHours": 119,
+      "budgetUtilizationPercent": 71.86
+    },
+    "aiDevelopmentScore": 78.7,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-GAN-42",
+    "locationId": "WRD-GAN-42",
+    "locationName": "Sector 21 Ward",
+    "lastUpdatedTimestamp": 1783089591,
+    "metrics": {
+      "populationDensityPerSqKm": 13236,
+      "waterSupplyCompliancePercent": 78.51,
+      "roadNetworkHealthIndex": 90.55,
+      "healthcareAccessScore": 70.94,
+      "educationInfrastructureScore": 84.71,
+      "activeGrievancesCount": 8,
+      "resolvedGrievances30Days": 46,
+      "averageSlaResolutionHours": 56,
+      "budgetUtilizationPercent": 82.31
+    },
+    "aiDevelopmentScore": 81.2,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-GAN-43",
+    "locationId": "WRD-GAN-43",
+    "locationName": "Infocity Ward",
+    "lastUpdatedTimestamp": 1783044476,
+    "metrics": {
+      "populationDensityPerSqKm": 8114,
+      "waterSupplyCompliancePercent": 61.56,
+      "roadNetworkHealthIndex": 61.29,
+      "healthcareAccessScore": 82.83,
+      "educationInfrastructureScore": 81.8,
+      "activeGrievancesCount": 20,
+      "resolvedGrievances30Days": 33,
+      "averageSlaResolutionHours": 41,
+      "budgetUtilizationPercent": 72.23
+    },
+    "aiDevelopmentScore": 71.9,
+    "priorityDeficitDepartments": [
+      "DEPT_ROADS_HIGHWAYS",
+      "DEPT_WATER_SUPPLY"
+    ],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-GAN-44",
+    "locationId": "WRD-GAN-44",
+    "locationName": "Kudasan Ward",
+    "lastUpdatedTimestamp": 1783026538,
+    "metrics": {
+      "populationDensityPerSqKm": 12861,
+      "waterSupplyCompliancePercent": 79.76,
+      "roadNetworkHealthIndex": 70.81,
+      "healthcareAccessScore": 74.14,
+      "educationInfrastructureScore": 93.14,
+      "activeGrievancesCount": 14,
+      "resolvedGrievances30Days": 59,
+      "averageSlaResolutionHours": 28,
+      "budgetUtilizationPercent": 76.25
+    },
+    "aiDevelopmentScore": 79.5,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-GAN-45",
+    "locationId": "WRD-GAN-45",
+    "locationName": "Raysan Ward",
+    "lastUpdatedTimestamp": 1783099199,
+    "metrics": {
+      "populationDensityPerSqKm": 9159,
+      "waterSupplyCompliancePercent": 89.11,
+      "roadNetworkHealthIndex": 58.81,
+      "healthcareAccessScore": 91.79,
+      "educationInfrastructureScore": 98.52,
+      "activeGrievancesCount": 17,
+      "resolvedGrievances30Days": 41,
+      "averageSlaResolutionHours": 42,
+      "budgetUtilizationPercent": 72.14
+    },
+    "aiDevelopmentScore": 84.6,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "WRD-GAN-46",
+    "locationId": "WRD-GAN-46",
+    "locationName": "Sargasan Ward",
+    "lastUpdatedTimestamp": 1783084032,
+    "metrics": {
+      "populationDensityPerSqKm": 12125,
+      "waterSupplyCompliancePercent": 72.69,
+      "roadNetworkHealthIndex": 80.28,
+      "healthcareAccessScore": 77.6,
+      "educationInfrastructureScore": 84.18,
+      "activeGrievancesCount": 5,
+      "resolvedGrievances30Days": 17,
+      "averageSlaResolutionHours": 95,
+      "budgetUtilizationPercent": 86.56
+    },
+    "aiDevelopmentScore": 78.7,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-GAN-47",
+    "locationId": "VIL-GAN-47",
+    "locationName": "Kalol Town",
+    "lastUpdatedTimestamp": 1783029928,
+    "metrics": {
+      "populationDensityPerSqKm": 10881,
+      "waterSupplyCompliancePercent": 69.53,
+      "roadNetworkHealthIndex": 89.02,
+      "healthcareAccessScore": 82.46,
+      "educationInfrastructureScore": 91.45,
+      "activeGrievancesCount": 6,
+      "resolvedGrievances30Days": 21,
+      "averageSlaResolutionHours": 65,
+      "budgetUtilizationPercent": 92.14
+    },
+    "aiDevelopmentScore": 83.1,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-GAN-48",
+    "locationId": "VIL-GAN-48",
+    "locationName": "Dehgam Town",
+    "lastUpdatedTimestamp": 1783106145,
+    "metrics": {
+      "populationDensityPerSqKm": 13844,
+      "waterSupplyCompliancePercent": 95.71,
+      "roadNetworkHealthIndex": 91.36,
+      "healthcareAccessScore": 89.99,
+      "educationInfrastructureScore": 89.73,
+      "activeGrievancesCount": 23,
+      "resolvedGrievances30Days": 24,
+      "averageSlaResolutionHours": 73,
+      "budgetUtilizationPercent": 86.2
+    },
+    "aiDevelopmentScore": 91.7,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-GAN-49",
+    "locationId": "VIL-GAN-49",
+    "locationName": "Mansa Town",
+    "lastUpdatedTimestamp": 1783064175,
+    "metrics": {
+      "populationDensityPerSqKm": 3234,
+      "waterSupplyCompliancePercent": 73.11,
+      "roadNetworkHealthIndex": 78.24,
+      "healthcareAccessScore": 94.09,
+      "educationInfrastructureScore": 90.81,
+      "activeGrievancesCount": 21,
+      "resolvedGrievances30Days": 22,
+      "averageSlaResolutionHours": 55,
+      "budgetUtilizationPercent": 79.74
+    },
+    "aiDevelopmentScore": 84.1,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  },
+  {
+    "twinId": "VIL-GAN-50",
+    "locationId": "VIL-GAN-50",
+    "locationName": "Adalaj Village",
+    "lastUpdatedTimestamp": 1783097119,
+    "metrics": {
+      "populationDensityPerSqKm": 11822,
+      "waterSupplyCompliancePercent": 80.65,
+      "roadNetworkHealthIndex": 75.83,
+      "healthcareAccessScore": 85.3,
+      "educationInfrastructureScore": 97.51,
+      "activeGrievancesCount": 25,
+      "resolvedGrievances30Days": 41,
+      "averageSlaResolutionHours": 53,
+      "budgetUtilizationPercent": 90.44
+    },
+    "aiDevelopmentScore": 84.8,
+    "priorityDeficitDepartments": [],
+    "simulationStatus": "ACTIVE_LIVE"
+  }
+]

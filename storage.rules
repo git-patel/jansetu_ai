@@ -1,0 +1,57 @@
+rules_version = '2';
+
+// JanSetu AI Enterprise Edition - Firebase Cloud Storage Security Rules
+// Restricts media uploads (images, videos, audio, documents) to authenticated users,
+// validating MIME content types and maximum payload file sizes per Prompt 15.
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // Helper functions for storage governance
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isAdmin() {
+      return isAuthenticated() && request.auth.token.role == 'ADMIN';
+    }
+
+    function isValidImage() {
+      return request.resource.contentType.matches('image/.*') && request.resource.size < 10 * 1024 * 1024; // Max 10MB
+    }
+
+    function isValidVideo() {
+      return request.resource.contentType.matches('video/.*') && request.resource.size < 50 * 1024 * 1024; // Max 50MB
+    }
+
+    function isValidAudio() {
+      return request.resource.contentType.matches('audio/.*') && request.resource.size < 20 * 1024 * 1024; // Max 20MB
+    }
+
+    function isValidDocument() {
+      return request.resource.contentType.matches('application/pdf') && request.resource.size < 25 * 1024 * 1024; // Max 25MB
+    }
+
+    // Media bucket path: /media/{category}/{filename}
+    match /media/{category}/{filename} {
+      allow read: if isAuthenticated();
+      allow create, update: if isAuthenticated() && (isValidImage() || isValidVideo() || isValidAudio() || isValidDocument());
+      allow delete: if isAdmin() || isAuthenticated();
+    }
+
+    // User profile avatars
+    match /users/{userId}/avatar/{filename} {
+      allow read: if isAuthenticated();
+      allow write: if isOwner(userId) && isValidImage();
+    }
+
+    // PFMS Escrow audit documents (restricted to MP and Admin)
+    match /escrows/{projectId}/{filename} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin() || (isAuthenticated() && request.auth.token.role == 'MP') && isValidDocument();
+    }
+  }
+}

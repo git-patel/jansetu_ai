@@ -1,0 +1,3602 @@
+[
+  {
+    "projectId": "PRJ-GUJ-0001",
+    "projectName": "Capital Works: Absence of daily door-to-door garbage collection vehicle for 5 days at Sargasan Ward",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-46"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-SUR-007"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 60000,
+      "disbursedAmountINR": 24000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0001"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 24000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 24000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 12000
+      }
+    ],
+    "sanctionedAtTimestamp": 1772812418,
+    "expectedCompletionTimestamp": 1783180418
+  },
+  {
+    "projectId": "PRJ-GUJ-0002",
+    "projectName": "Capital Works: Choked storm water drain causing severe street sewage flooding at Bardoli Town",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "VIL-SRT-20"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-RAJ-010"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 240000,
+      "disbursedAmountINR": 240000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0002"
+    },
+    "currentStatus": "COMPLETED_AUDITED",
+    "progressPercentage": 100,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 96000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 96000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 48000
+      }
+    ],
+    "sanctionedAtTimestamp": 1779006156,
+    "expectedCompletionTimestamp": 1789374156
+  },
+  {
+    "projectId": "PRJ-GUJ-0003",
+    "projectName": "Capital Works: Broken RCC divider causing traffic hazard and daily accidents at Kalavad Road Ward",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "WRD-RAK-22"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-GAN-020"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 960000,
+      "disbursedAmountINR": 384000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0003"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 384000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 384000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 192000
+      }
+    ],
+    "sanctionedAtTimestamp": 1772503041,
+    "expectedCompletionTimestamp": 1782871041
+  },
+  {
+    "projectId": "PRJ-GUJ-0004",
+    "projectName": "Capital Works: Severe Pothole Formation and Asphalt Degeneration on Main Road at Kothariya Road Ward",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "WRD-RAK-26"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-AHM-002"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 7250000,
+      "disbursedAmountINR": 2900000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0004"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 2900000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 2900000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 1450000
+      }
+    ],
+    "sanctionedAtTimestamp": 1774383492,
+    "expectedCompletionTimestamp": 1784751492
+  },
+  {
+    "projectId": "PRJ-GUJ-0005",
+    "projectName": "Capital Works: Desilting and Repair of Sub-Minor Farm Irrigation Canal at Dabhoi Town",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-39"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-VAD-024",
+      "assignedContractorId": "USR-CON-SUR-005"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1300000,
+      "disbursedAmountINR": 1300000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0005"
+    },
+    "currentStatus": "COMPLETED_AUDITED",
+    "progressPercentage": 100,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 520000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 520000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 260000
+      }
+    ],
+    "sanctionedAtTimestamp": 1770617564,
+    "expectedCompletionTimestamp": 1780985564
+  },
+  {
+    "projectId": "PRJ-GUJ-0006",
+    "projectName": "Capital Works: Choked storm water drain causing severe street sewage flooding at Raysan Ward",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-45"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-RAJ-010"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 480000,
+      "disbursedAmountINR": 192000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0006"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 192000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 192000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 96000
+      }
+    ],
+    "sanctionedAtTimestamp": 1771701383,
+    "expectedCompletionTimestamp": 1782069383
+  },
+  {
+    "projectId": "PRJ-GUJ-0007",
+    "projectName": "Capital Works: Leaning high-tension electricity pole threatening residential houses at Gondal Town",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "VIL-RAK-27"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-AHM-004"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1120000,
+      "disbursedAmountINR": 448000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0007"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 448000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 448000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 224000
+      }
+    ],
+    "sanctionedAtTimestamp": 1780370703,
+    "expectedCompletionTimestamp": 1790738703
+  },
+  {
+    "projectId": "PRJ-GUJ-0008",
+    "projectName": "Capital Works: Collapsing classroom wall and damaged drinking water facility in school at Piplod Ward 18",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "WRD-SRT-16"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-SUR-006"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 2550000,
+      "disbursedAmountINR": 1020000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0008"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1020000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1020000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 510000
+      }
+    ],
+    "sanctionedAtTimestamp": 1767667279,
+    "expectedCompletionTimestamp": 1778035279
+  },
+  {
+    "projectId": "PRJ-GUJ-0009",
+    "projectName": "Capital Works: Severe shortage of essential anti-venom and rabies vaccines in PHC at Kothariya Road Ward",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "WRD-RAK-26"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1050000,
+      "disbursedAmountINR": 420000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0009"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 420000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 420000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 210000
+      }
+    ],
+    "sanctionedAtTimestamp": 1778937706,
+    "expectedCompletionTimestamp": 1789305706
+  },
+  {
+    "projectId": "PRJ-GUJ-0010",
+    "projectName": "Capital Works: Spelling transformer sparking and burning cables on electric pole at Padra Town",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-37"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-AHM-002"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1260000,
+      "disbursedAmountINR": 504000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0010"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 504000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 504000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 252000
+      }
+    ],
+    "sanctionedAtTimestamp": 1774484124,
+    "expectedCompletionTimestamp": 1784852124
+  },
+  {
+    "projectId": "PRJ-GUJ-0011",
+    "projectName": "Capital Works: Spelling transformer sparking and burning cables on electric pole at Sector 15 Ward",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-41"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-GAN-018"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1260000,
+      "disbursedAmountINR": 504000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0011"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 504000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 504000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 252000
+      }
+    ],
+    "sanctionedAtTimestamp": 1776579969,
+    "expectedCompletionTimestamp": 1786947969
+  },
+  {
+    "projectId": "PRJ-GUJ-0012",
+    "projectName": "Capital Works: Dilapidated Primary Health Center building roof leaking during rains at Maninagar Ward",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-05"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-GAN-020"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1300000,
+      "disbursedAmountINR": 520000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0012"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 520000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 520000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 260000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773187119,
+    "expectedCompletionTimestamp": 1783555119
+  },
+  {
+    "projectId": "PRJ-GUJ-0013",
+    "projectName": "Capital Works: Desilting and Repair of Sub-Minor Farm Irrigation Canal at Ghatlodia Ward",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-06"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-GAN-026",
+      "assignedContractorId": "USR-CON-SUR-005"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 3250000,
+      "disbursedAmountINR": 3250000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0013"
+    },
+    "currentStatus": "COMPLETED_AUDITED",
+    "progressPercentage": 100,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 650000
+      }
+    ],
+    "sanctionedAtTimestamp": 1778282750,
+    "expectedCompletionTimestamp": 1788650750
+  },
+  {
+    "projectId": "PRJ-GUJ-0014",
+    "projectName": "Capital Works: Collapsing classroom wall and damaged drinking water facility in school at Kudasan Ward",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-44"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-RAJ-009"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1700000,
+      "disbursedAmountINR": 680000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0014"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 680000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 680000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 340000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769573710,
+    "expectedCompletionTimestamp": 1779941710
+  },
+  {
+    "projectId": "PRJ-GUJ-0015",
+    "projectName": "Capital Works: Severe Pothole Formation and Asphalt Degeneration on Main Road at Viramgam Town",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "VIL-AHM-10"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-VAD-014"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 5800000,
+      "disbursedAmountINR": 2320000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0015"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 2320000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 2320000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 1160000
+      }
+    ],
+    "sanctionedAtTimestamp": 1772709001,
+    "expectedCompletionTimestamp": 1783077001
+  },
+  {
+    "projectId": "PRJ-GUJ-0016",
+    "projectName": "Capital Works: Caved-in asphalt road due to monsoon drainage erosion at Vastrapur Ward",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-04"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-SUR-008"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1700000,
+      "disbursedAmountINR": 680000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0016"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 680000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 680000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 340000
+      }
+    ],
+    "sanctionedAtTimestamp": 1776630091,
+    "expectedCompletionTimestamp": 1786998091
+  },
+  {
+    "projectId": "PRJ-GUJ-0017",
+    "projectName": "Capital Works: Dilapidated Primary Health Center building roof leaking during rains at Alkapuri Ward",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-31"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-AHM-004"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 3250000,
+      "disbursedAmountINR": 1300000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0017"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 650000
+      }
+    ],
+    "sanctionedAtTimestamp": 1770625621,
+    "expectedCompletionTimestamp": 1780993621
+  },
+  {
+    "projectId": "PRJ-GUJ-0018",
+    "projectName": "Capital Works: Leaning high-tension electricity pole threatening residential houses at Kalol Town",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "VIL-GAN-47"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1400000,
+      "disbursedAmountINR": 560000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0018"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 560000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 560000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 280000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769307407,
+    "expectedCompletionTimestamp": 1779675407
+  },
+  {
+    "projectId": "PRJ-GUJ-0019",
+    "projectName": "Capital Works: Choked storm water drain causing severe street sewage flooding at Padra Town",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-37"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-SUR-005"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 360000,
+      "disbursedAmountINR": 360000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0019"
+    },
+    "currentStatus": "COMPLETED_AUDITED",
+    "progressPercentage": 100,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 144000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 144000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 72000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773439187,
+    "expectedCompletionTimestamp": 1783807187
+  },
+  {
+    "projectId": "PRJ-GUJ-0020",
+    "projectName": "Capital Works: Desilting and Repair of Sub-Minor Farm Irrigation Canal at Gotri Ward",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-33"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-SUR-008",
+      "assignedContractorId": "USR-CON-RAJ-011"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1950000,
+      "disbursedAmountINR": 780000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0020"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 780000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 780000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 390000
+      }
+    ],
+    "sanctionedAtTimestamp": 1774383135,
+    "expectedCompletionTimestamp": 1784751135
+  },
+  {
+    "projectId": "PRJ-GUJ-0021",
+    "projectName": "Capital Works: Low water pressure and erratic municipal water supply timing at Infocity Ward",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-43"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-GAN-020"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 255000,
+      "disbursedAmountINR": 102000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0021"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 102000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 102000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 51000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769547980,
+    "expectedCompletionTimestamp": 1779915980
+  },
+  {
+    "projectId": "PRJ-GUJ-0022",
+    "projectName": "Capital Works: Frequent voltage fluctuation damaging domestic appliances at Mansa Town",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "VIL-GAN-49"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-VAD-013"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 450000,
+      "disbursedAmountINR": 180000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0022"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 180000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 180000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 90000
+      }
+    ],
+    "sanctionedAtTimestamp": 1776797510,
+    "expectedCompletionTimestamp": 1787165510
+  },
+  {
+    "projectId": "PRJ-GUJ-0023",
+    "projectName": "Capital Works: Absence of daily door-to-door garbage collection vehicle for 5 days at Piplod Ward 18",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "WRD-SRT-16"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-RAJ-011"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 150000,
+      "disbursedAmountINR": 60000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0023"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 60000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 60000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 30000
+      }
+    ],
+    "sanctionedAtTimestamp": 1780401244,
+    "expectedCompletionTimestamp": 1790769244
+  },
+  {
+    "projectId": "PRJ-GUJ-0024",
+    "projectName": "Capital Works: Absence of daily door-to-door garbage collection vehicle for 5 days at Kamrej Town",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "VIL-SRT-18"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-VAD-014"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 90000,
+      "disbursedAmountINR": 36000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0024"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 36000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 36000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 18000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773825425,
+    "expectedCompletionTimestamp": 1784193425
+  },
+  {
+    "projectId": "PRJ-GUJ-0025",
+    "projectName": "Capital Works: Caved-in asphalt road due to monsoon drainage erosion at Navrangpura Ward",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-01"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-GAN-020"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 4250000,
+      "disbursedAmountINR": 4250000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0025"
+    },
+    "currentStatus": "COMPLETED_AUDITED",
+    "progressPercentage": 100,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 1700000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 1700000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 850000
+      }
+    ],
+    "sanctionedAtTimestamp": 1780232207,
+    "expectedCompletionTimestamp": 1790600207
+  },
+  {
+    "projectId": "PRJ-GUJ-0026",
+    "projectName": "Capital Works: Overflowing municipal garbage dump emitting toxic odors at Kudasan Ward",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-44"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 180000,
+      "disbursedAmountINR": 72000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0026"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 72000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 72000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 36000
+      }
+    ],
+    "sanctionedAtTimestamp": 1772121305,
+    "expectedCompletionTimestamp": 1782489305
+  },
+  {
+    "projectId": "PRJ-GUJ-0027",
+    "projectName": "Capital Works: Desilting and Repair of Sub-Minor Farm Irrigation Canal at Dholka Town",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "VIL-AHM-09"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-GAN-029",
+      "assignedContractorId": "USR-CON-VAD-014"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 2600000,
+      "disbursedAmountINR": 1040000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0027"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1040000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1040000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 520000
+      }
+    ],
+    "sanctionedAtTimestamp": 1780461067,
+    "expectedCompletionTimestamp": 1790829067
+  },
+  {
+    "projectId": "PRJ-GUJ-0028",
+    "projectName": "Capital Works: Dilapidated Primary Health Center building roof leaking during rains at Navrangpura Ward",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-01"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-RAJ-011"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 2600000,
+      "disbursedAmountINR": 1040000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0028"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1040000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1040000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 520000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773085619,
+    "expectedCompletionTimestamp": 1783453619
+  },
+  {
+    "projectId": "PRJ-GUJ-0029",
+    "projectName": "Capital Works: Ruptured 300mm Potable Water Main line near Residential Society at Padra Town",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-37"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 960000,
+      "disbursedAmountINR": 384000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0029"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 384000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 384000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 192000
+      }
+    ],
+    "sanctionedAtTimestamp": 1777807680,
+    "expectedCompletionTimestamp": 1788175680
+  },
+  {
+    "projectId": "PRJ-GUJ-0030",
+    "projectName": "Capital Works: Absence of duty doctor and nursing staff during emergency night hours at Navrangpura Ward",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-01"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-GAN-019"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 250000,
+      "disbursedAmountINR": 100000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0030"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 100000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 100000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 50000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769775769,
+    "expectedCompletionTimestamp": 1780143769
+  },
+  {
+    "projectId": "PRJ-GUJ-0031",
+    "projectName": "Capital Works: Frequent voltage fluctuation damaging domestic appliances at Bavla Town",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "VIL-AHM-08"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-AHM-004"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 600000,
+      "disbursedAmountINR": 240000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0031"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 240000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 240000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 120000
+      }
+    ],
+    "sanctionedAtTimestamp": 1779440541,
+    "expectedCompletionTimestamp": 1789808541
+  },
+  {
+    "projectId": "PRJ-GUJ-0032",
+    "projectName": "Capital Works: Severe contamination and sewage mixing in drinking water tap at Gondal Town",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "VIL-RAK-27"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-RAJ-012"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 720000,
+      "disbursedAmountINR": 720000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0032"
+    },
+    "currentStatus": "COMPLETED_AUDITED",
+    "progressPercentage": 100,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 288000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 288000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 144000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769709932,
+    "expectedCompletionTimestamp": 1780077932
+  },
+  {
+    "projectId": "PRJ-GUJ-0033",
+    "projectName": "Capital Works: Non-availability of subsidized urea fertilizer at village co-op society at Navrangpura Ward",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-01"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-AHM-003"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 660000,
+      "disbursedAmountINR": 264000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0033"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 264000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 264000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 132000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773716766,
+    "expectedCompletionTimestamp": 1784084766
+  },
+  {
+    "projectId": "PRJ-GUJ-0034",
+    "projectName": "Capital Works: Desilting and Repair of Sub-Minor Farm Irrigation Canal at Infocity Ward",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-43"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-VAD-022",
+      "assignedContractorId": "USR-CON-RAJ-009"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 3250000,
+      "disbursedAmountINR": 1300000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0034"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 650000
+      }
+    ],
+    "sanctionedAtTimestamp": 1775828909,
+    "expectedCompletionTimestamp": 1786196909
+  },
+  {
+    "projectId": "PRJ-GUJ-0035",
+    "projectName": "Capital Works: Collapsing classroom wall and damaged drinking water facility in school at Padra Town",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-37"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-GAN-018"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 3400000,
+      "disbursedAmountINR": 1360000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0035"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1360000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1360000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 680000
+      }
+    ],
+    "sanctionedAtTimestamp": 1778119435,
+    "expectedCompletionTimestamp": 1788487435
+  },
+  {
+    "projectId": "PRJ-GUJ-0036",
+    "projectName": "Capital Works: Caved-in asphalt road due to monsoon drainage erosion at Kalavad Road Ward",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "WRD-RAK-22"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-AHM-001"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 3400000,
+      "disbursedAmountINR": 1360000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0036"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1360000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1360000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 680000
+      }
+    ],
+    "sanctionedAtTimestamp": 1776863405,
+    "expectedCompletionTimestamp": 1787231405
+  },
+  {
+    "projectId": "PRJ-GUJ-0037",
+    "projectName": "Capital Works: Leaning high-tension electricity pole threatening residential houses at Satellite Ward",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-03"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-AHM-002"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 840000,
+      "disbursedAmountINR": 336000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0037"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 336000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 336000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 168000
+      }
+    ],
+    "sanctionedAtTimestamp": 1776939927,
+    "expectedCompletionTimestamp": 1787307927
+  },
+  {
+    "projectId": "PRJ-GUJ-0038",
+    "projectName": "Capital Works: Leaning high-tension electricity pole threatening residential houses at Padra Town",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-37"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-SUR-008"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 840000,
+      "disbursedAmountINR": 336000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0038"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 336000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 336000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 168000
+      }
+    ],
+    "sanctionedAtTimestamp": 1770390348,
+    "expectedCompletionTimestamp": 1780758348
+  },
+  {
+    "projectId": "PRJ-GUJ-0039",
+    "projectName": "Capital Works: Desilting and Repair of Sub-Minor Farm Irrigation Canal at Satellite Ward",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-03"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-GAN-030",
+      "assignedContractorId": "USR-CON-RAJ-010"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1950000,
+      "disbursedAmountINR": 780000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0039"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 780000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 780000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 390000
+      }
+    ],
+    "sanctionedAtTimestamp": 1774687297,
+    "expectedCompletionTimestamp": 1785055297
+  },
+  {
+    "projectId": "PRJ-GUJ-0040",
+    "projectName": "Capital Works: Lack of clean sanitation benches and functional toilets for girl students at Maninagar Ward",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-05"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-GAN-019"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 680000,
+      "disbursedAmountINR": 272000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0040"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 272000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 272000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 136000
+      }
+    ],
+    "sanctionedAtTimestamp": 1774383738,
+    "expectedCompletionTimestamp": 1784751738
+  },
+  {
+    "projectId": "PRJ-GUJ-0041",
+    "projectName": "Capital Works: Absence of duty doctor and nursing staff during emergency night hours at Katargam Ward 05",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "WRD-SRT-15"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-AHM-004"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 100000,
+      "disbursedAmountINR": 40000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0041"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 40000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 40000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 20000
+      }
+    ],
+    "sanctionedAtTimestamp": 1778448365,
+    "expectedCompletionTimestamp": 1788816365
+  },
+  {
+    "projectId": "PRJ-GUJ-0042",
+    "projectName": "Capital Works: Severe Pothole Formation and Asphalt Degeneration on Main Road at Sector 15 Ward",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-41"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-RAJ-009"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 7250000,
+      "disbursedAmountINR": 2900000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0042"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 2900000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 2900000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 1450000
+      }
+    ],
+    "sanctionedAtTimestamp": 1777668297,
+    "expectedCompletionTimestamp": 1788036297
+  },
+  {
+    "projectId": "PRJ-GUJ-0043",
+    "projectName": "Capital Works: Absence of daily door-to-door garbage collection vehicle for 5 days at Piplod Ward 18",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "WRD-SRT-16"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-VAD-013"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 60000,
+      "disbursedAmountINR": 24000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0043"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 24000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 24000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 12000
+      }
+    ],
+    "sanctionedAtTimestamp": 1770836163,
+    "expectedCompletionTimestamp": 1781204163
+  },
+  {
+    "projectId": "PRJ-GUJ-0044",
+    "projectName": "Capital Works: Absence of duty doctor and nursing staff during emergency night hours at Sanand Town",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "VIL-AHM-07"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-RAJ-011"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 100000,
+      "disbursedAmountINR": 40000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0044"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 40000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 40000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 20000
+      }
+    ],
+    "sanctionedAtTimestamp": 1771491571,
+    "expectedCompletionTimestamp": 1781859571
+  },
+  {
+    "projectId": "PRJ-GUJ-0045",
+    "projectName": "Capital Works: Broken RCC divider causing traffic hazard and daily accidents at Lodhika Village",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "VIL-RAK-29"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-SUR-005"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1280000,
+      "disbursedAmountINR": 1280000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0045"
+    },
+    "currentStatus": "COMPLETED_AUDITED",
+    "progressPercentage": 100,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 512000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 512000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 256000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769930610,
+    "expectedCompletionTimestamp": 1780298610
+  },
+  {
+    "projectId": "PRJ-GUJ-0046",
+    "projectName": "Capital Works: Severe crop damage due to unseasonal waterlogging without drainage at Alkapuri Ward",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-31"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-RAJ-015",
+      "assignedContractorId": "USR-CON-RAJ-012"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 900000,
+      "disbursedAmountINR": 360000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0046"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 360000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 360000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 180000
+      }
+    ],
+    "sanctionedAtTimestamp": 1770339229,
+    "expectedCompletionTimestamp": 1780707229
+  },
+  {
+    "projectId": "PRJ-GUJ-0047",
+    "projectName": "Capital Works: Absence of daily door-to-door garbage collection vehicle for 5 days at Adajan Ward 14",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "WRD-SRT-11"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-GAN-018"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 150000,
+      "disbursedAmountINR": 60000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0047"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 60000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 60000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 30000
+      }
+    ],
+    "sanctionedAtTimestamp": 1770507893,
+    "expectedCompletionTimestamp": 1780875893
+  },
+  {
+    "projectId": "PRJ-GUJ-0048",
+    "projectName": "Capital Works: Absence of daily door-to-door garbage collection vehicle for 5 days at Fatehgunj Ward",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-36"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 120000,
+      "disbursedAmountINR": 48000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0048"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 48000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 48000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 24000
+      }
+    ],
+    "sanctionedAtTimestamp": 1774223769,
+    "expectedCompletionTimestamp": 1784591769
+  },
+  {
+    "projectId": "PRJ-GUJ-0049",
+    "projectName": "Capital Works: Severe contamination and sewage mixing in drinking water tap at Gondal Town",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "VIL-RAK-27"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-AHM-002"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 900000,
+      "disbursedAmountINR": 360000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0049"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 360000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 360000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 180000
+      }
+    ],
+    "sanctionedAtTimestamp": 1777910865,
+    "expectedCompletionTimestamp": 1788278865
+  },
+  {
+    "projectId": "PRJ-GUJ-0050",
+    "projectName": "Capital Works: Lack of clean sanitation benches and functional toilets for girl students at Amin Marg Ward",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "WRD-RAK-21"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-SUR-007"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1360000,
+      "disbursedAmountINR": 544000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0050"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 544000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 544000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 272000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769781952,
+    "expectedCompletionTimestamp": 1780149952
+  },
+  {
+    "projectId": "PRJ-GUJ-0051",
+    "projectName": "Capital Works: Non-availability of subsidized urea fertilizer at village co-op society at Sargasan Ward",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-46"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-GAN-029",
+      "assignedContractorId": "USR-CON-VAD-013"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 660000,
+      "disbursedAmountINR": 264000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0051"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 264000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 264000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 132000
+      }
+    ],
+    "sanctionedAtTimestamp": 1769692252,
+    "expectedCompletionTimestamp": 1780060252
+  },
+  {
+    "projectId": "PRJ-GUJ-0052",
+    "projectName": "Capital Works: Severe Pothole Formation and Asphalt Degeneration on Main Road at Dholka Town",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "VIL-AHM-09"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-RAJ-010"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 7250000,
+      "disbursedAmountINR": 2900000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0052"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 2900000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 2900000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 1450000
+      }
+    ],
+    "sanctionedAtTimestamp": 1778116777,
+    "expectedCompletionTimestamp": 1788484777
+  },
+  {
+    "projectId": "PRJ-GUJ-0053",
+    "projectName": "Capital Works: Severe contamination and sewage mixing in drinking water tap at Alkapuri Ward",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-31"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-GAN-019"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 360000,
+      "disbursedAmountINR": 144000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0053"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 144000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 144000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 72000
+      }
+    ],
+    "sanctionedAtTimestamp": 1772132893,
+    "expectedCompletionTimestamp": 1782500893
+  },
+  {
+    "projectId": "PRJ-GUJ-0054",
+    "projectName": "Capital Works: Severe contamination and sewage mixing in drinking water tap at Savli Village",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-40"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 540000,
+      "disbursedAmountINR": 216000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0054"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 216000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 216000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 108000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773138415,
+    "expectedCompletionTimestamp": 1783506415
+  },
+  {
+    "projectId": "PRJ-GUJ-0055",
+    "projectName": "Capital Works: Ruptured 300mm Potable Water Main line near Residential Society at Fatehgunj Ward",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-36"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-SUR-006"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 960000,
+      "disbursedAmountINR": 384000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0055"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 384000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 384000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 192000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773833891,
+    "expectedCompletionTimestamp": 1784201891
+  },
+  {
+    "projectId": "PRJ-GUJ-0056",
+    "projectName": "Capital Works: Leaning high-tension electricity pole threatening residential houses at Varachha Ward 08",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "WRD-SRT-13"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-RAJ-012"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 840000,
+      "disbursedAmountINR": 336000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0056"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 336000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 336000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 168000
+      }
+    ],
+    "sanctionedAtTimestamp": 1775509558,
+    "expectedCompletionTimestamp": 1785877558
+  },
+  {
+    "projectId": "PRJ-GUJ-0057",
+    "projectName": "Capital Works: Severe shortage of essential anti-venom and rabies vaccines in PHC at Gondal Town",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "VIL-RAK-27"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 700000,
+      "disbursedAmountINR": 280000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0057"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 280000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 280000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 140000
+      }
+    ],
+    "sanctionedAtTimestamp": 1778557078,
+    "expectedCompletionTimestamp": 1788925078
+  },
+  {
+    "projectId": "PRJ-GUJ-0058",
+    "projectName": "Capital Works: Leaning high-tension electricity pole threatening residential houses at Fatehgunj Ward",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-36"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-VAD-016"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1400000,
+      "disbursedAmountINR": 560000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0058"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 560000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 560000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 280000
+      }
+    ],
+    "sanctionedAtTimestamp": 1768517773,
+    "expectedCompletionTimestamp": 1778885773
+  },
+  {
+    "projectId": "PRJ-GUJ-0059",
+    "projectName": "Capital Works: Overflowing municipal garbage dump emitting toxic odors at Adajan Ward 14",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "WRD-SRT-11"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-AHM-002"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 135000,
+      "disbursedAmountINR": 54000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0059"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 54000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 54000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 27000
+      }
+    ],
+    "sanctionedAtTimestamp": 1779126560,
+    "expectedCompletionTimestamp": 1789494560
+  },
+  {
+    "projectId": "PRJ-GUJ-0060",
+    "projectName": "Capital Works: Choked storm water drain causing severe street sewage flooding at Kamrej Town",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "VIL-SRT-18"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-SUR-007"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 240000,
+      "disbursedAmountINR": 96000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0060"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 96000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 96000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 48000
+      }
+    ],
+    "sanctionedAtTimestamp": 1780160694,
+    "expectedCompletionTimestamp": 1790528694
+  },
+  {
+    "projectId": "PRJ-GUJ-0061",
+    "projectName": "Capital Works: Desilting and Repair of Sub-Minor Farm Irrigation Canal at Karjan Town",
+    "departmentId": "DEPT_AGRICULTURE",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-38"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-RAJ-014",
+      "assignedContractorId": "USR-CON-GAN-020"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 3250000,
+      "disbursedAmountINR": 1300000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0061"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1300000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 650000
+      }
+    ],
+    "sanctionedAtTimestamp": 1774682363,
+    "expectedCompletionTimestamp": 1785050363
+  },
+  {
+    "projectId": "PRJ-GUJ-0062",
+    "projectName": "Capital Works: Choked storm water drain causing severe street sewage flooding at Bardoli Town",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "VIL-SRT-20"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-RAJ-009"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 240000,
+      "disbursedAmountINR": 96000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0062"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 96000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 96000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 48000
+      }
+    ],
+    "sanctionedAtTimestamp": 1772752988,
+    "expectedCompletionTimestamp": 1783120988
+  },
+  {
+    "projectId": "PRJ-GUJ-0063",
+    "projectName": "Capital Works: Broken RCC divider causing traffic hazard and daily accidents at Dehgam Town",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "VIL-GAN-48"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-RAJ-009"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 640000,
+      "disbursedAmountINR": 256000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0063"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 256000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 256000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 128000
+      }
+    ],
+    "sanctionedAtTimestamp": 1771052234,
+    "expectedCompletionTimestamp": 1781420234
+  },
+  {
+    "projectId": "PRJ-GUJ-0064",
+    "projectName": "Capital Works: Collapsing classroom wall and damaged drinking water facility in school at Adalaj Village",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "VIL-GAN-50"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-SUR-007"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 4250000,
+      "disbursedAmountINR": 1700000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0064"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1700000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1700000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 850000
+      }
+    ],
+    "sanctionedAtTimestamp": 1775330589,
+    "expectedCompletionTimestamp": 1785698589
+  },
+  {
+    "projectId": "PRJ-GUJ-0065",
+    "projectName": "Capital Works: Leaning high-tension electricity pole threatening residential houses at Sargasan Ward",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-46"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-GAN-018"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1120000,
+      "disbursedAmountINR": 448000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0065"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 448000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 448000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 224000
+      }
+    ],
+    "sanctionedAtTimestamp": 1767928991,
+    "expectedCompletionTimestamp": 1778296991
+  },
+  {
+    "projectId": "PRJ-GUJ-0066",
+    "projectName": "Capital Works: Spelling transformer sparking and burning cables on electric pole at Padra Town",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "VIL-VAD-37"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-RAJ-009"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 2100000,
+      "disbursedAmountINR": 840000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0066"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 840000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 840000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 420000
+      }
+    ],
+    "sanctionedAtTimestamp": 1780101654,
+    "expectedCompletionTimestamp": 1790469654
+  },
+  {
+    "projectId": "PRJ-GUJ-0067",
+    "projectName": "Capital Works: Overflowing municipal garbage dump emitting toxic odors at Kudasan Ward",
+    "departmentId": "DEPT_SANITATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "WRD-GAN-44"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-004",
+      "assignedContractorId": "USR-CON-GAN-018"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 135000,
+      "disbursedAmountINR": 54000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0067"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 54000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 54000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 27000
+      }
+    ],
+    "sanctionedAtTimestamp": 1767929562,
+    "expectedCompletionTimestamp": 1778297562
+  },
+  {
+    "projectId": "PRJ-GUJ-0068",
+    "projectName": "Capital Works: Frequent voltage fluctuation damaging domestic appliances at Vastrapur Ward",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "WRD-AHM-04"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-AHM-004"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 300000,
+      "disbursedAmountINR": 120000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0068"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 120000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 120000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 60000
+      }
+    ],
+    "sanctionedAtTimestamp": 1778087030,
+    "expectedCompletionTimestamp": 1788455030
+  },
+  {
+    "projectId": "PRJ-GUJ-0069",
+    "projectName": "Capital Works: Ruptured 300mm Potable Water Main line near Residential Society at Kalol Town",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "VIL-GAN-47"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-AHM-003"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 480000,
+      "disbursedAmountINR": 192000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0069"
+    },
+    "currentStatus": "MILESTONE_1_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "VERIFIED_AND_PAID",
+        "paymentTrancheINR": 192000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 192000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 96000
+      }
+    ],
+    "sanctionedAtTimestamp": 1775349215,
+    "expectedCompletionTimestamp": 1785717215
+  },
+  {
+    "projectId": "PRJ-GUJ-0070",
+    "projectName": "Capital Works: Caved-in asphalt road due to monsoon drainage erosion at Adalaj Village",
+    "departmentId": "DEPT_ROADS_HIGHWAYS",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-GAN-0001",
+      "pcId": "PC-GUJ-GAN-0001",
+      "wardId": "VIL-GAN-50"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-GAN",
+      "responsibleOfficerId": "USR-OFF-AHM-002",
+      "assignedContractorId": "USR-CON-GAN-019"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 3400000,
+      "disbursedAmountINR": 1360000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0070"
+    },
+    "currentStatus": "IN_EXECUTION",
+    "progressPercentage": 40,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 1360000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 1360000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 680000
+      }
+    ],
+    "sanctionedAtTimestamp": 1777796452,
+    "expectedCompletionTimestamp": 1788164452
+  },
+  {
+    "projectId": "PRJ-GUJ-0071",
+    "projectName": "Capital Works: Frequent voltage fluctuation damaging domestic appliances at Fatehgunj Ward",
+    "departmentId": "DEPT_ELECTRICITY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-36"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-003",
+      "assignedContractorId": "USR-CON-VAD-013"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 750000,
+      "disbursedAmountINR": 300000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0071"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 300000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 300000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 150000
+      }
+    ],
+    "sanctionedAtTimestamp": 1773106086,
+    "expectedCompletionTimestamp": 1783474086
+  },
+  {
+    "projectId": "PRJ-GUJ-0072",
+    "projectName": "Capital Works: Absence of duty doctor and nursing staff during emergency night hours at Manjalpur Ward",
+    "departmentId": "DEPT_PRIMARY_HEALTH",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-VAD-0001",
+      "pcId": "PC-GUJ-VAD-0001",
+      "wardId": "WRD-VAD-34"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-VAD",
+      "responsibleOfficerId": "USR-OFF-AHM-005",
+      "assignedContractorId": "USR-CON-RAJ-012"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 200000,
+      "disbursedAmountINR": 80000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0072"
+    },
+    "currentStatus": "SANCTIONED_ESTIMATED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 80000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 80000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 40000
+      }
+    ],
+    "sanctionedAtTimestamp": 1776365371,
+    "expectedCompletionTimestamp": 1786733371
+  },
+  {
+    "projectId": "PRJ-GUJ-0073",
+    "projectName": "Capital Works: Lack of clean sanitation benches and functional toilets for girl students at Viramgam Town",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-AHM-0001",
+      "pcId": "PC-GUJ-AHM-0001",
+      "wardId": "VIL-AHM-10"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-AHM",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-AHM-003"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1360000,
+      "disbursedAmountINR": 544000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0073"
+    },
+    "currentStatus": "TENDER_FLOAT",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 544000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 544000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 272000
+      }
+    ],
+    "sanctionedAtTimestamp": 1777824974,
+    "expectedCompletionTimestamp": 1788192974
+  },
+  {
+    "projectId": "PRJ-GUJ-0074",
+    "projectName": "Capital Works: Lack of clean sanitation benches and functional toilets for girl students at Gondal Town",
+    "departmentId": "DEPT_PRIMARY_EDUCATION",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-RAK-0001",
+      "pcId": "PC-GUJ-RAK-0001",
+      "wardId": "VIL-RAK-27"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-RAK",
+      "responsibleOfficerId": "USR-OFF-AHM-006",
+      "assignedContractorId": "USR-CON-RAJ-011"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 1360000,
+      "disbursedAmountINR": 544000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0074"
+    },
+    "currentStatus": "MILESTONE_2_VERIFIED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 544000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 544000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 272000
+      }
+    ],
+    "sanctionedAtTimestamp": 1777322703,
+    "expectedCompletionTimestamp": 1787690703
+  },
+  {
+    "projectId": "PRJ-GUJ-0075",
+    "projectName": "Capital Works: Low water pressure and erratic municipal water supply timing at Bardoli Town",
+    "departmentId": "DEPT_WATER_SUPPLY",
+    "location": {
+      "stateId": "STA-GUJ-0001",
+      "districtId": "DIS-GUJ-SRT-0001",
+      "pcId": "PC-GUJ-SRT-0001",
+      "wardId": "VIL-SRT-20"
+    },
+    "ownership": {
+      "sanctionedByAuthorityId": "USR-MP-SRT",
+      "responsibleOfficerId": "USR-OFF-AHM-001",
+      "assignedContractorId": "USR-CON-GAN-017"
+    },
+    "financials": {
+      "sanctionedBudgetINR": 170000,
+      "disbursedAmountINR": 68000,
+      "escrowAccountReference": "ESCROW-SBI-PRJ-GUJ-0075"
+    },
+    "currentStatus": "WORK_ORDER_AWARDED",
+    "progressPercentage": 15,
+    "milestones": [
+      {
+        "milestoneIndex": 1,
+        "title": "Site Excavation, Material Inspection & Foundation Preparation",
+        "weightagePercent": 40,
+        "status": "PENDING_INSPECTION",
+        "paymentTrancheINR": 68000
+      },
+      {
+        "milestoneIndex": 2,
+        "title": "Core Infrastructure Laying & Structural Construction",
+        "weightagePercent": 40,
+        "status": "PENDING",
+        "paymentTrancheINR": 68000
+      },
+      {
+        "milestoneIndex": 3,
+        "title": "Final Finishing, Quality Audit & Commissioning Handover",
+        "weightagePercent": 20,
+        "status": "PENDING",
+        "paymentTrancheINR": 34000
+      }
+    ],
+    "sanctionedAtTimestamp": 1780184663,
+    "expectedCompletionTimestamp": 1790552663
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-07-03T20:58:28.132Z",
+  "state": "Gujarat (STA-GUJ-0001)",
+  "totalDocuments": 1141,
+  "counts": {
+    "locations": 61,
+    "digitalTwins": 50,
+    "users": 555,
+    "needs": 300,
+    "projects": 75,
+    "assets": 100
+  },
+  "version": "2.0.0-Enterprise"
+}
