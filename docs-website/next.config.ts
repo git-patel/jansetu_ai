@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   // Ensure that dynamic asset paths work under subfolders if deployed to a project path
-  basePath: process.env.NEXT_PUBLIC_BASE_PATH || "",
+  basePath: process.env.NEXT_PUBLIC_BASE_PATH || "/jansetu_ai",
 };
 
 export default nextConfig;
