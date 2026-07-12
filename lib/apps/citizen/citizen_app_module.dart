@@ -7,7 +7,6 @@ import '../shared/floating_ai_assistant.dart';
 import '../shared/jansetu_comment_modal.dart';
 import '../shared/jansetu_share_modal.dart';
 import '../../services/local_persistence_service.dart';
-import '../shared/user_profile_modal.dart';
 
 /// Citizen Application Screen Scaffold (CitizenAppModule)
 /// Streamlined mobile-first Home Screen & Community Feed per Prompt 08:

@@ -4,7 +4,6 @@ import 'spatial_tree_navigator.dart';
 import 'escrow_audit_ledger.dart';
 import '../../core/config/service_locator.dart';
 import '../../services/local_persistence_service.dart';
-import '../shared/user_profile_modal.dart';
 import '../shared/entity_detail_modal.dart';
 import '../shared/floating_ai_assistant.dart';
 

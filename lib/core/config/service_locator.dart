@@ -30,6 +30,17 @@ import '../../repositories/firebase/firebase_user_repository.dart';
 
 import '../utils/logger.dart';
 
+// Clean Architecture Core AI & Auth Modules (Prompt 18)
+import '../ai/ai_repository.dart' as core_ai;
+import '../ai/ai_repository_impl.dart' as core_ai_impl;
+import '../ai/gemini_ai_service.dart' as core_gemini;
+import '../ai/mock_ai_service.dart' as core_mock;
+import '../auth/auth_repository.dart' as core_auth;
+import '../auth/firebase_auth_repository.dart' as core_auth_impl;
+import '../auth/auth_service.dart' as core_auth_service;
+import '../auth/session_manager.dart' as core_session;
+import '../auth/role_manager.dart' as core_role;
+
 enum DataSourceType { local, firebase }
 
 /// Central Service Locator & Dependency Injection Registry (ServiceLocator)
@@ -47,6 +58,23 @@ class ServiceLocator {
     userRepository = LocalUserRepository();
     analyticsRepository = LocalAnalyticsRepository();
     aiRepository = LocalAiRepository();
+
+    // Register Clean Architecture Core Modules (Prompt 18)
+    final mockAi = core_mock.MockAIService();
+    final geminiAi = core_gemini.GeminiAIService();
+    coreAiRepository = core_ai_impl.AIRepositoryImpl(
+      geminiService: geminiAi,
+      mockService: mockAi,
+    );
+
+    final sessionMgr = core_session.SessionManager();
+    final roleMgr = core_role.RoleManager();
+    final authServ = core_auth_service.FirebaseAuthService();
+    coreAuthRepository = core_auth_impl.FirebaseAuthRepository(
+      authService: authServ,
+      sessionManager: sessionMgr,
+      roleManager: roleMgr,
+    );
   }
 
   DataSourceType _currentType = DataSourceType.local;
@@ -61,6 +89,10 @@ class ServiceLocator {
   late UserRepository userRepository;
   late AnalyticsRepository analyticsRepository;
   late AiRepository aiRepository;
+
+  // Clean Architecture Core Repositories
+  late core_ai.AIRepository coreAiRepository;
+  late core_auth.AuthRepository coreAuthRepository;
 
   /// Initialize repositories for the specified data source type
   Future<void> init({DataSourceType type = DataSourceType.local}) async {

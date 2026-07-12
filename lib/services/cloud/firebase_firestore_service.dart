@@ -1,7 +1,6 @@
 import 'dart:async';
 import '../../core/constants/synthetic_gujarat_data.dart';
 import '../../core/errors/jansetu_exceptions.dart';
-import '../../core/utils/cache_manager.dart';
 import '../../core/utils/logger.dart';
 import '../../core/config/firebase_bootstrap_service.dart';
 

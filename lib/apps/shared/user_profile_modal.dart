@@ -134,7 +134,7 @@ class _JanSetuUserProfileModalState extends State<JanSetuUserProfileModal> {
 
   void _showMyRequestsDialog() {
     final needs = LocalPersistenceService.needs;
-    final myNeeds = needs.where((n) => (n as Map)['submittedByMe'] == true || (n as Map)['creatorUserId'] == 'USR-CTZ-7721').toList();
+    final myNeeds = needs.where((n) => n['submittedByMe'] == true || n['creatorUserId'] == 'USR-CTZ-7721').toList();
 
     showDialog(
       context: context,
